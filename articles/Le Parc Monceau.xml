@@ -55,61 +55,61 @@
       <back>
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="2012/12/Parc-Monceau.jpg"/>
+               <graphic url="../images/Parc-Monceau.jpg"/>
                <head>Photos du Parc Monceau</head>
                <note type="attribution">Image courtesy of Buttes Chaumont</note>
                <figDesc>Color and black and white postcards from the early century depicting the park </figDesc>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="2012/12/Henri_Brispot_-_Les_belles_au_parc_Monceau_1.jpg"/>
+               <graphic url="../images/Henri_Brispot_-_Les_belles_au_parc_Monceau_1.jpg"/>
                <head>Henri Brispot - Les Belles au parc Monceau 1908</head>
                <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Colorful, impressionistic painting of two older Parisians sitting on a park bench, talking to a young woman</figDesc>
             </figure>
             <figure xml:id="fig3">
-               <graphic url="2012/12/monet-parc-monceau_1689608c.jpg"/>
+               <graphic url="../images/monet-parc-monceau_1689608c.jpg"/>
                <head>Monet - Parc Monceau 1878 (detail)</head>
                <note type="attribution">Detail courtesy of The Telegraph, full painting courtesy of the Met Museum</note>
                <figDesc>Impressionist, colorful painting of ladies in white dresses sitting on a park bench as strangers walk through the park</figDesc>
             </figure>
             <figure xml:id="fig4">
-               <graphic url="2012/12/canvas.png"/>
+               <graphic url="../images/canvas.png"/>
                <head>Monet - Le Parc Monceau 1876</head>
                <note type="attribution">Image courtesy of the Met Museum</note>
                <figDesc>Impressionist painting of a green landscape, with a rolling hill and small trees</figDesc>
             </figure>
             <figure xml:id="fig5">
-               <graphic url="2012/12/le-Parc-Monceau.jpg"/>
+               <graphic url="../images/le-Parc-Monceau.jpg"/>
                <head>Parc Monceau [une allée]</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of a broad cobblestoned street lined by trees </figDesc>
             </figure>
             <figure xml:id="fig6">
-               <graphic url="2012/12/Neige-au-Parc-Monceau.jpg"/>
+               <graphic url="../images/Neige-au-Parc-Monceau.jpg"/>
                <head>Neige au Parc Monceau</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of a snow-covered statue surrounded by trees in the park</figDesc>
             </figure>
             <figure xml:id="fig7">
-               <graphic url="2012/12/f1.highres2.jpg"/>
+               <graphic url="../images/f1.highres2.jpg"/>
                <head>Neige au Parc Monceau</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of a snow-covered walkway by a stream in the park</figDesc>
             </figure>
             <figure xml:id="fig8">
-               <graphic url="2012/12/f1.highres3.jpg"/>
+               <graphic url="../images/f1.highres3.jpg"/>
                <head>Neige au Parc Monceau</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of a snow-covered bridge in the park</figDesc>
             </figure>
             <figure xml:id="fig9">
-               <graphic url="2012/12/f1.highres4.jpg"/>
+               <graphic url="../images/f1.highres4.jpg"/>
                <head>Parc Monceau [la grille d'entrée]</head>
                <note type="attribution"/>
                <figDesc>Black and white photo of entrance gates to park</figDesc>
             </figure>
             <figure xml:id="fig10">
-               <graphic url="2013/03/CROPPED-heading.jpg"/>
+               <graphic url="../images/CROPPED-heading.jpg"/>
                <head>Le Parc Monceau</head>
                <note type="attribution">Claude Monet, 1876</note>
                <figDesc/>

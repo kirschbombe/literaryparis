@@ -43,61 +43,61 @@
       <back>
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="2012/12/f1.highres.jpeg"/>
+               <graphic url="../images/f1.highres.jpeg"/>
                <head>Eglise de la Trintié, 1913</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of the Church of the Holy Trinity </figDesc>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="2012/12/makethumbdetails.php_.jpeg"/>
+               <graphic url="../images/makethumbdetails.php_.jpeg"/>
                <head>Carte Postale de l'Eglise de le Trinité</head>
                <note type="attribution">Image courtesy of Bidstart</note>
                <figDesc>Yellowed postcard depicting the church </figDesc>
             </figure>
             <figure xml:id="fig3">
-               <graphic url="2012/12/StTrin06.jpg"/>
+               <graphic url="../images/StTrin06.jpg"/>
                <head>La Force, Statue par James Pradier, 1870</head>
                <note type="attribution">Image courtesy of Patrimoine-histoire.fr</note>
                <figDesc>Photograph of a statue depicting Force, one of the four virtues, part of the Church of the Holy Trinity </figDesc>
             </figure>
             <figure xml:id="fig4">
-               <graphic url="2012/12/StTrin69.jpg"/>
+               <graphic url="../images/StTrin69.jpg"/>
                <head>Saint Denis portant sa tête, Désiré-François Laugé, 1876</head>
                <note type="attribution">Image courtesy of Patrimoine-histoire.fr</note>
                <figDesc>Image of a painting of St. Denis carrying his head from the walls of the church</figDesc>
             </figure>
             <figure xml:id="fig5">
-               <graphic url="2012/12/cartes-postales-photos-Place-et-Eglise-de-la-Trinite-PARIS-75009-7970-20080114-9k7q6p8c2u2q4t5n7p7r.jpg-1-maxi.jpg"/>
+               <graphic url="../images/cartes-postales-photos-Place-et-Eglise-de-la-Trinite-PARIS-75009-7970-20080114-9k7q6p8c2u2q4t5n7p7r.jpg-1-maxi.jpg"/>
                <head>Place et Église de la Trinité</head>
                <note type="attribution">Image courtesy of Notrefamilie </note>
                <figDesc>Black and white postcard of the church </figDesc>
             </figure>
             <figure xml:id="fig6">
-               <graphic url="2012/12/StTrin66.jpg"/>
+               <graphic url="../images/StTrin66.jpg"/>
                <head>Le Bon Pasteur, Romain Cazes, 1874</head>
                <note type="attribution">Image courtesy of Patrimoine-histoire.fr</note>
                <figDesc>Painting depicting Jesus as a shepherd, from the Church of the Holy Trinity </figDesc>
             </figure>
             <figure xml:id="fig7">
-               <graphic url="2012/12/StTrin08.jpg"/>
+               <graphic url="../images/StTrin08.jpg"/>
                <head>La Tempérance, Statue par Jean-Baptiste Carpeaux, 1869</head>
                <note type="attribution">Image courtesy of Patrimoine-histoire.fr</note>
                <figDesc>Photograph of a statue depicting Temperance, one of the four virtues, part of the Church of the Holy Trinity </figDesc>
             </figure>
             <figure xml:id="fig8">
-               <graphic url="2013/12/CM_232_-_PARIS_-_LEglise_de_la_Trinité_et_vue_générale_vers_Montmartre1.jpg"/>
+               <graphic url="../images/CM_232_-_PARIS_-_LEglise_de_la_Trinité_et_vue_générale_vers_Montmartre1.jpg"/>
                <head>L'Eglise de la Trinité</head>
                <note type="attribution"/>
                <figDesc/>
             </figure>
             <figure xml:id="fig9">
-               <graphic url="2013/12/CM_232_-_PARIS_-_LEglise_de_la_Trinité_et_vue_générale_vers_Montmartre.jpg"/>
+               <graphic url="../images/CM_232_-_PARIS_-_LEglise_de_la_Trinité_et_vue_générale_vers_Montmartre.jpg"/>
                <head>L'Eglise de la Trinité et vue générale vers Montmartre, Début du XXe siècle</head>
                <note type="attribution"/>
                <figDesc/>
             </figure>
             <figure xml:id="fig10">
-               <graphic url="2013/12/706px-Paris_-_Eglise_de_La_Trinité_vue_de_La_Chaussée_DAntin_en_1912.jpg"/>
+               <graphic url="../images/706px-Paris_-_Eglise_de_La_Trinité_vue_de_La_Chaussée_DAntin_en_1912.jpg"/>
                <head>Eglise de la Trinité vue de la Chaussée d'Antin en 1912</head>
                <note type="attribution"/>
                <figDesc/>

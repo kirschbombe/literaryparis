@@ -83,31 +83,31 @@
       <back>
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="2014/09/Claude_monet_la_grenouillère_1869_02.jpg"/>
+               <graphic url="../images/Claude_monet_la_grenouillère_1869_02.jpg"/>
                <head>La Grenouillère - Claude Monet</head>
                <note type="attribution">Photo from Wikimedia Commons, via user Sailko</note>
                <figDesc/>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="2014/09/oarsmen.jpg"/>
+               <graphic url="../images/oarsmen.jpg"/>
                <head>Les canotiers à Chatou - Pierre-Auguste Renoir</head>
                <note type="attribution">Photo from Wikiart.org</note>
                <figDesc/>
             </figure>
             <figure xml:id="fig3">
-               <graphic url="2014/12/the-seine-at-chatou-1881.jpg"/>
+               <graphic url="../images/the-seine-at-chatou-1881.jpg"/>
                <head>La Seine à Chatou - Pierre-Auguste Renoir</head>
                <note type="attribution">Image from Wikiart.org</note>
                <figDesc/>
             </figure>
             <figure xml:id="fig4">
-               <graphic url="2014/12/Pierre-Auguste_Renoir_-_Le_Pont_de_Chatou-e1418359345281.jpg"/>
+               <graphic url="../images/Pierre-Auguste_Renoir_-_Le_Pont_de_Chatou-e1418359345281.jpg"/>
                <head>Le Pont de Chatou - Pierre-Auguste Renoir</head>
                <note type="attribution">Photo from Wikimedia Commons</note>
                <figDesc/>
             </figure>
             <figure xml:id="fig5">
-               <graphic url="2014/12/1879_Affiche.jpg"/>
+               <graphic url="../images/1879_Affiche.jpg"/>
                <head>Affiche: Bal de la Grenouillère tous les jeudis</head>
                <note type="attribution">Photo from Archives.Croissy.com</note>
                <figDesc/>

@@ -42,43 +42,43 @@
       <back>
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="2012/12/folies.png"/>
+               <graphic url="../images/folies.png"/>
                <head>Un bar aux folies-bergères, Edouard Manet, 1882</head>
                <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Oil painting of a woman in a busy nightclub</figDesc>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="2012/12/folies3.jpg"/>
+               <graphic url="../images/folies3.jpg"/>
                <head>Carte Postale démontrant les Folies-Bergère, rue Richer, Paris, 1900</head>
                <note type="attribution"/>
                <figDesc>Black and white postcard depicting the façade of the Folies-Bergère</figDesc>
             </figure>
             <figure xml:id="fig3">
-               <graphic url="2012/12/folies4.jpg"/>
+               <graphic url="../images/folies4.jpg"/>
                <head>Folies-Bergères... Ira Paine </head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Advertisement for the nightclub featuring one of its acts</figDesc>
             </figure>
             <figure xml:id="fig4">
-               <graphic url="2012/12/folies5.jpg"/>
+               <graphic url="../images/folies5.jpg"/>
                <head>Un bar aux Folies-Bergère, Edouard Manet, 1882 [detail]</head>
                <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Detail of the background of a Manet painting, showing a woman sitting at a bar</figDesc>
             </figure>
             <figure xml:id="fig5">
-               <graphic url="2012/12/folies6.jpg"/>
+               <graphic url="../images/folies6.jpg"/>
                <head>Un bar aux folies-bergères, 1878, Jean Louis Forain</head>
                <note type="attribution">Image courtesy of the Brooklyn Museum</note>
                <figDesc>Colorful, hand drawn depiction of a woman dining in the bar</figDesc>
             </figure>
             <figure xml:id="fig6">
-               <graphic url="2012/12/folies2.fw_.png"/>
+               <graphic url="../images/folies2.fw_.png"/>
                <head>Un bar aux folies-bergères, Edouard Manet [detail]</head>
                <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Detail of Manet's painting of the bar, cropped to the upper half of the woman's body. </figDesc>
             </figure>
             <figure xml:id="fig7">
-               <graphic url="2012/12/folies61.jpg"/>
+               <graphic url="../images/folies61.jpg"/>
                <head>Folies-Bergère. Les Dante, 1890</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Advertisement featuring two dancing demons</figDesc>

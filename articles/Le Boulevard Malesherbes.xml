@@ -51,49 +51,49 @@
       <back>
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="2012/12/f11.jpg"/>
+               <graphic url="../images/f11.jpg"/>
                <head>Église de Saint-Augustin Vue prise du Boulevard Malesherbe</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Color lithograph of a church </figDesc>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="2012/12/BM1.jpeg"/>
+               <graphic url="../images/BM1.jpeg"/>
                <head>Hôtel [Gaillard, hôtel particulier], boulevard Malesherbes [à vendre]. 1913</head>
                <note type="attribution"/>
                <figDesc>Black and white photograph of the hotel's exterior</figDesc>
             </figure>
             <figure xml:id="fig3">
-               <graphic url="2012/12/BM3.jpeg"/>
+               <graphic url="../images/BM3.jpeg"/>
                <head>Saint-Augustin [vue de la façade de l'église]. 1913</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of the St. Augustin Church</figDesc>
             </figure>
             <figure xml:id="fig4">
-               <graphic url="2012/12/BM4.jpeg"/>
+               <graphic url="../images/BM4.jpeg"/>
                <head>Obsèques de Mr Paul Déroulède. 1914</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of a funeral occurring outside the church  </figDesc>
             </figure>
             <figure xml:id="fig5">
-               <graphic url="2012/12/BM5.jpeg"/>
+               <graphic url="../images/BM5.jpeg"/>
                <head>Paris, fêtes de Jeanne d'Arc. 1912</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of a statue covered in flowers</figDesc>
             </figure>
             <figure xml:id="fig6">
-               <graphic url="2012/12/BM6.jpeg"/>
+               <graphic url="../images/BM6.jpeg"/>
                <head>Gabriel Fauré, devant son piano, dans son appartement boulevard Malesherbes. 1905</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of Gabriel Fauré standing in front of his piano in his apartment on Boulevard Malesherbes</figDesc>
             </figure>
             <figure xml:id="fig7">
-               <graphic url="2012/12/BM7.jpeg"/>
+               <graphic url="../images/BM7.jpeg"/>
                <head>Jeunes garçons faisant la quête devant un lycée transformé en ouvroir. 1914</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Black and white photograph of young boys outside of their high school</figDesc>
             </figure>
             <figure xml:id="fig8">
-               <graphic url="2012/12/BM8.jpeg"/>
+               <graphic url="../images/BM8.jpeg"/>
                <head>Exposition du 17 mai au 6 juin. 1900</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Poster advertising upcoming expositions on the Boulevard Malesherbes</figDesc>

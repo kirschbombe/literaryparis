@@ -41,25 +41,25 @@
       <back>
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="2012/12/ruefontaine3.jpg"/>
+               <graphic url="../images/ruefontaine3.jpg"/>
                <head>Rue Fontaine et Rue Douai</head>
                <note type="attribution">Image courtesy of Notrefamilie.com</note>
                <figDesc>Black and white postcard depicting the intersection of two Parisian streets </figDesc>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="2012/12/ruefontaine1.jpg"/>
+               <graphic url="../images/ruefontaine1.jpg"/>
                <head>Rue Fontaine : [photographie de presse] / Agence Meurisse</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>La Rue Fontaine with a view of the Moulin Rouge nightclub</figDesc>
             </figure>
             <figure xml:id="fig3">
-               <graphic url="2012/12/ruefontaine31.jpg"/>
+               <graphic url="../images/ruefontaine31.jpg"/>
                <head>Rue Fontaine</head>
                <note type="attribution"/>
                <figDesc>Black and white postcard depicting the street</figDesc>
             </figure>
             <figure xml:id="fig4">
-               <graphic url="2012/12/cabaret.jpg"/>
+               <graphic url="../images/cabaret.jpg"/>
                <head>Montmartre: Cabaret du Ciel et de l'Enfer 42 rue Fontaine,1900</head>
                <note type="attribution">Image courtesy of Gallica</note>
                <figDesc>Sepia photograph of the shops along the street</figDesc>

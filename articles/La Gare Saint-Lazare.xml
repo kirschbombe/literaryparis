@@ -54,31 +54,31 @@
       <back>
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="2012/12/monet-1.gif"/>
+               <graphic url="../images/monet-1.gif"/>
                <head>La Gare Saint-Lazare</head>
                <note type="attribution"/>
                <figDesc>Impressionist painting of a train platform</figDesc>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="2012/12/a0000681.jpg"/>
+               <graphic url="../images/a0000681.jpg"/>
                <head>Le Chemin de fer, Edouard Manet</head>
                <note type="attribution">Image courtesy of the National Gallery of Art</note>
                <figDesc>Impressionist painting of a little girl and a young woman peeking through a wrought iron gateway</figDesc>
             </figure>
             <figure xml:id="fig3">
-               <graphic url="2012/12/AP1982_01L.jpg"/>
+               <graphic url="../images/AP1982_01L.jpg"/>
                <head>Sur le pont de l’Europe</head>
                <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Painting of a man looking out on the Pont de l'Europe</figDesc>
             </figure>
             <figure xml:id="fig4">
-               <graphic url="2012/12/175432_1368904.jpg"/>
+               <graphic url="../images/175432_1368904.jpg"/>
                <head>Rue de Paris, temps de pluie, Gustave Caillebotte</head>
                <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Oil painting of Parisians walking in the rain</figDesc>
             </figure>
             <figure xml:id="fig5">
-               <graphic url="2012/12/monet-12.gif"/>
+               <graphic url="../images/monet-12.gif"/>
                <head>La Gare Saint-Lazare, Claude Monet</head>
                <note type="attribution">Image courtesy of la Musée D'Orsay</note>
                <figDesc>Impressionist painting of a train platform</figDesc>

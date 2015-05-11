@@ -42,61 +42,61 @@
       <back>
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="2012/11/vanGogh_pont.png"/>
+               <graphic url="../images/vanGogh_pont.png"/>
                <head>La Seine avec le Pont de Clichy, van Gogh</head>
                <note type="attribution">Image courtesy of the van Gogh Gallery </note>
                <figDesc>Painting of a bridge over the Seine</figDesc>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="2012/11/Photo_vanGogh.png"/>
+               <graphic url="../images/Photo_vanGogh.png"/>
                <head>Emile Bernard et Vincent Van Gogh (de dos) sur les berges de la Seine</head>
                <note type="attribution">Image courtesy of Jeditoo.com</note>
                <figDesc>Black and white photograph of Emile Bernard and van Gogh sitting on the bank of the Seine</figDesc>
             </figure>
             <figure xml:id="fig3">
-               <graphic url="2012/11/Monet.png"/>
+               <graphic url="../images/Monet.png"/>
                <head>La Seine à Asnières, Monet</head>
                <note type="attribution">Image courtesy of WIkimedia</note>
                <figDesc>Impressionist painting of boats in the pier on the Seine</figDesc>
             </figure>
             <figure xml:id="fig4">
-               <graphic url="2012/11/Renoir.png"/>
+               <graphic url="../images/Renoir.png"/>
                <head>Barques sur la Seine à Asnières </head>
                <note type="attribution">Image courtesy of Wikipaintings</note>
                <figDesc>Impressionist painting of two women in a small boat on the river</figDesc>
             </figure>
             <figure xml:id="fig5">
-               <graphic url="2012/11/CartePostale.png"/>
+               <graphic url="../images/CartePostale.png"/>
                <head>Équipe du Rowing Club</head>
                <note type="attribution">Image courtesy of Aloj</note>
                <figDesc>Black and white postcard of a rowing team beneath a bridge</figDesc>
             </figure>
             <figure xml:id="fig6">
-               <graphic url="2012/11/vanGogh_Road.png"/>
+               <graphic url="../images/vanGogh_Road.png"/>
                <head>Walk along the banks of the Seine at Asnieres</head>
                <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Impressionist painting of people walking along the bank of the river</figDesc>
             </figure>
             <figure xml:id="fig7">
-               <graphic url="2012/11/vanGogh_Fishing.png"/>
+               <graphic url="../images/vanGogh_Fishing.png"/>
                <head>Fishing in Spring, the Pont de Clichy (Asnières), 1887</head>
                <note type="attribution"/>
                <figDesc>Impressionist painting of a man fishing in a boat on the river</figDesc>
             </figure>
             <figure xml:id="fig8">
-               <graphic url="2012/11/vanGogh.png"/>
+               <graphic url="../images/vanGogh.png"/>
                <head>Le restaurant de la Sirène à Asnières, summer 1887</head>
                <note type="attribution">Image courtesy of Impressionistsgallery.co.uk</note>
                <figDesc>Impressionist painting of a restaurant façade in Asnière </figDesc>
             </figure>
             <figure xml:id="fig9">
-               <graphic url="2012/11/Seurat2.png"/>
+               <graphic url="../images/Seurat2.png"/>
                <head>Bathers at Asnières, Georges Seurat, 1884</head>
                <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Pointillist painting of people lounging on the banks of the river and swimming</figDesc>
             </figure>
             <figure xml:id="fig10">
-               <graphic url="2013/03/009_001.jpg"/>
+               <graphic url="../images/009_001.jpg"/>
                <head>ASNIERES Berges de la Seine en amont du pont du chemin de fer</head>
                <note type="attribution">Image courtesy of Delcampe</note>
                <figDesc>Sepia postcard of Parisians walking along the Seine</figDesc>
