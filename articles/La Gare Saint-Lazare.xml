@@ -44,6 +44,13 @@
             <p>Tout au long de son histoire, la gare Saint-Lazare a joué un rôle clé dans la croissance économique et sociale de Paris. Elle a influencé les arts et l'architecture à travers la ville, en particulier pendant la Belle Époque. On peut imaginer Georges Duroy marchant à la gare Saint-Lazare de son appartement sur la rue de Constantinople, parmi la foule des voyageurs. La gare Saint-Lazare est devenue un lieu vraiment inspirant pendant la Belle Époque ; c’est facile de voir pourquoi des réalistes de la Belle Epoque étaient si inspirés.</p>
          </div>
       </body>
+      <note>
+         <note type="mapmarker">
+            <placeName>La Gare Saint-Lazare</placeName>
+            <geo>2.326671 48.875496</geo>
+            <p>La gare Saint-Lazare est la gare la plus vieille à Paris et a une longue histoire plein d’importance économique, sociale, culturelle, et architecturale. La Belle Epoque est devenue la periode la plus riche pour la gare Saint-Lazare à cause des Expositions universelles et des artistes impressionnistes Manet et Monet. L'architecture industrielle de la gare Saint-Lazare et la vie au quartier de l'Europe é taient l'inspiration des écrivains réalistes comme Maupassant pendant la Belle Epoque. «Georges Duroy dormit mal, tant l’excitait le désir de voir imprimé son article. Dès que le jour parut, il fut debout et il rôdait dans la rue bien avant l’heure où les porteurs de journaux vont, en courant, de kiosque en kiosque. Alors il gagna la gare Saint-Lazare, sachant bien que la Vie Française y arriverait avant de parvenir dans son quartier. Comme il était encore trop tôt, il erra sur le trottoir.» Ch. 4, Partie I</p>
+         </note>
+      </note>
       <back>
          <div type="images">
             <figure xml:id="fig1">

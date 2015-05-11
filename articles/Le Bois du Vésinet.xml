@@ -39,6 +39,13 @@
             <p>Les villas du Vésinet dans le style de l’Art Nouveau sont des résidences chics pendant la Belle Époque. Témoignant aussi de nouvelle influence gothique, chaque villa du Vésinet a sa propre personnalité. Une de ces villas, La Hublotière construiteen 1896 par l'architecte Hector Guimard, a quatre façades différentes en donnant à chaque façade l’apparence d’un nouveau bâtiment. Guimard est un architecte qui représente le style de l’Art Nouveau pendant la Belle Époque. Ce nouveau style d’architecture était pour les temps le style ‘moderne’ et il est devenu le style de beaucoup de résidences de la haute bourgeoisie.</p>
          </div>
       </body>
+      <note>
+         <note type="mapmarker">
+            <placeName>Le Bois du Vésinet</placeName>
+            <geo>2.134716 48.894198</geo>
+            <p>'Jacques Rival vint lui serrer la main vers le milieu de l'après-midi; et il fut convenu que ses témoins le prendraient chez lui en landau, le lendemain a sept heures du matin, pour se rendre au bois du Vésinet où la rencontre aurait lieu.' - Bel-Ami pg. 146</p>
+         </note>
+      </note>
       <back>
          <div type="images">
             <figure xml:id="fig1">

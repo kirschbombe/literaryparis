@@ -40,6 +40,13 @@
             <p>Le Théâtre Marigny a continué à consacrer le lieu aux opérettes et à tout autre théâtre musical jusqu’en 1930. Aujourd'hui, le Marigny présente des productions populaires de théâtre et est l'une des nuits les plus chères pour des amateurs de théâtre. Situé au centre de Paris, avec l'intérieur de luxe étant conçu par Garnier, il est toujours considéré un théâtre d’extravagance et de plaisir.</p>
          </div>
       </body>
+      <note>
+         <note type="mapmarker">
+            <placeName>Le Théâtre Marigny</placeName>
+            <geo>2.314001 48.868549</geo>
+            <p>Le Théâtre Marigny est situé dans le 8ème arrondissement sur l’avenue Marigny, près de la jonction du Champs Élysées. Pendant la Belle Epoque, le Théâtre Marigny était un centre des activités sociales pour la bourgeoisie, particulièrement pendant les soirées.«Nous allons ensuite au théâtre Marigny nouvelle transformé, bien installé, genre Folies Bergère en plus moderne. Nous y arrivons pendant le ballet “La Bulle d’Amour”, musique de Thomé assez gentille, costumes frais»</p>
+         </note>
+      </note>
       <back>
          <div type="images">
             <figure xml:id="fig1">

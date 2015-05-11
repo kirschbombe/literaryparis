@@ -98,6 +98,13 @@
             </listBibl>
          </div>
       </body>
+       <note>
+           <note type="mapmarker">
+               <placeName>Le Bois de Boulogne</placeName>
+               <geo>2.249167 48.862449</geo>
+               <p>Le Bois de Boulogne était un lieu proéminent dans la vie des parisiens chics pendant la Belle Epoque. Il a un emplacement opportun près des beaux quartiers et les Champs Elysées mais aussi suffisamment loin pour s’échapper des enquêtes pour les parisiens qui voudraient trouver la nature et l’isolement romantique du centre-ville. Il est aussi l’une des plus célèbres lieux pour promenades de Paris.'Ils prirent un fiacre découvert, gagnèrent les Champs-Élysées, puis l'avenue du Bois-de-Boulogne. C'était une nuit sans vent, une de ces nuits d'étuve où l'air de Paris surchauffé entre dans la poitrine comme une vapeur de four. Une armée de fiacres menait sous les arbres tout un peuple d'amoureux. Ils allaient, ces fiacres, l'un derrière l'autre, sans cesse.'</p>
+           </note>
+       </note>
        <back>
            <div type="images">
                <figure xml:id="fig1">

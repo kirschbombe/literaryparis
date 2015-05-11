@@ -53,5 +53,12 @@
             </listBibl>
          </div>
       </body>
+      <note>
+         <note type="mapmarker">
+            <placeName>La gare des Batignolles</placeName>
+            <geo>2.314172 48.887612</geo>
+            <p>'Les maisons de la rue de Rome, en face, de l'autre côté du large fossé du chemin de fer, éclatantes dans la lumière du soleil levant...' (Maupassant 54).Au début du roman Georges Duroy habitait juste à côté de La Gare des Batignolles. Son ascension de l'échelle sociale lui faudrait plus en plus loin de la. Cette gare était un connecteur de la ville au reste du pays. Il a également été utilisé pour le transport quotidien des personnes.</p>
+         </note>
+      </note>
    </text>
 </TEI>

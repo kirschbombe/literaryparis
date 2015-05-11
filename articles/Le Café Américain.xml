@@ -33,6 +33,11 @@
             <p>Pendant la belle époque, le Café américain était le lieu des loisirs où des gens pouvaient tranquillement bavarder avec leurs amis. Par contre, pour les autres classes sociales, le Café américain était un site de comparaison et de contraste entre ces derniers et les bourgeois. Pour entrer dans le café américain, on n’avait pas besoin d’un billet, mais c’était, quand même, parfois difficile pour y entrer.</p>
          </div>
       </body>
+      <note type="mapmarker">
+         <placeName>Le Café Américain</placeName>
+         <geo>2.333798 48.871061</geo>
+         <p>Le Café américain se trouvait au 4 boulevard desCapucines, dans l'immeuble du théâtre du Vaudevill.<br /><br />« Il allait, passant devant les cafés d’un air crâne et gaillard, et il jugeait d’un coup d’œil, à la mine, à l’habit, ce que chaque consommateur devait porter d’argent sur lui. Et une colère l’envahissait contre ces gens assis et tranquilles » (Page 24, Bel-Ami)</p>
+      </note>
       <back>
          <div type="images">
             <figure xml:id="fig1">

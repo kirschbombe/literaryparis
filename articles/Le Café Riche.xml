@@ -40,6 +40,13 @@
             <p>Cependant, le café "irrésistible" était fermé en 1916, à cause du siège de la ville pendant la Grande Guerre. Après la fermeture, le restaurant a été converti en une banque. Mais dans les photographes de cette banque, on peut toujours voir le décor doré et décadent qui sert comme un écho de la gloire passée du café Riche.</p>
          </div>
       </body>
+      <note>
+         <note type="mapmarker">
+            <placeName>Le Café Riche</placeName>
+            <geo>2.338074 48.871673</geo>
+            <p>Le Café Riche, fondée en 1785, était destiné à être ostentatoire, décadente, et luxueuse. C'était un endroit où les riches pouvaient manger comme des rois. 'Il entendait dans toute cette vaste maison une rumeur confuse, ce bruissement des grands restaurants restaurants fait du bruit des vaiselles et des argenteries heurtées, du bruit des pas rapides des garçons adouci par le tapis des corridors, du bruit des portes un moment ouvertes et qui laissent échapper le son des voix de tous ces étroits salons où sont enfermés des gens qui dînent' (Bel-Ami, p. 85)</p>
+         </note>
+      </note>
       <back>
          <div type="images">
             <figure xml:id="fig1">
