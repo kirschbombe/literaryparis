@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eglise de la Madeleine </title>
+            <author>Ilana Shtivelman</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2012">Fall 2012</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p>L’Eglise de la Madeleine, connue comme La Madeleine, se trouve dans le 8ième arrondissement à Paris. Au sud de l’église se trouve la Place de la Concorde, à l’est se trouve la Place Vendôme et à l’ouest se trouve l’église de Saint-Augustin.</p>
+            <p>La construction de cette église commençait en 1764 sous Louis XV mais s’est arrêtée presque tout de suite. Puis, la construction résumait en 1777 mais a été interrompue par la Révolution Française et était finalement terminée en 1842. Ce n’était pas une des églises principales à Paris pour de simples raisons religieuses. C’était une immense église magnifique, atypique du style architectural de la période. Cette église dans le style néoclassique se ressemble beaucoup à des panthéons grecs. Il n’y avait même pas une croix au-dessus de l’église. Il y avait deux portes immenses à l’entrée de l’église, et des colonnes alignées qui entourent l’église entièrement. L’intérieur de l’église avait le décor inspiré par les artistes de la Renaissance. Dans le fond de l’église, il y avait une statue de Charles Marochetti qui représentait la sainte Marie-Madeleine qui était emportée au ciel par deux anges. C’était un symbole d’un temple à la gloire de la Grande Armée de Napoléon. Cette église est toujours ouverte et active aujourd‘hui.</p>
+            <p>Un symbole religieux et patriotique, l’église était aussi un endroit très important que fréquentait la bourgeoisie. A cause de la grandeur et de l’endroit de cette église, c’était un lieu de luxe où les riches bourgeois se rencontraient tous les dimanches à la messe.</p>
+            <q>“La majestueuse nef sera également le lieu idéal pour évoquer la vie d’une église très mondaine, fréquentée par l’aristocratie et la haute bourgeoisie du second Empire et de la IIIe République.” (http://www.lavoixdeslieux.fr/madeleine.php)</q>
+            <p>Par contre, l’église ne servait pas juste des fins religieuses. Plutôt, les réunions des bourgeois servaient à démontrer leur statut, leur pouvoir, et leur richesse dans la société de la Belle Epoque. Les bourgeois seraient toujours très bien vêtus pour aller à l’église, puisque c’était juste les gens qui étaient riches qui pouvaient se permettre d’aller à une telle église.</p>
+            <q>“Dès huit heures du matin, tout le personnel de la Madeleine étendant sur les marches du haut perron de cette église qui domine la rue Royale un large tapis rouge, faisait arrêter les passants, annonçait au peuple de Paris qu’une grande cérémonie allait avoir lieu.” (Bel-Ami, 323)</q>
+            <q>« La prière vaut mieux encore que ces merveilleuses choses, parce que rien, autant qu’elle, ne nous place près de Dieu et que l’homme est grand dans la mesure où il approche de Dieu. Et, affirmant la prière, vous affirmez l’âme immortelle » (9-10 Le souvenir français : discours prononcé à l’église de la Madeleine).</q>
+            <p>Cela expliquait vraiment, comme Constant notait dans son journal (où il est parlé des souvenirs français, y compris l’église de la Madeleine), l’ambiance de l’église et son importance religieuse. Le symbole de Dieu et la religion jouaient un rôle tant importante (sinon encore plus importante) que la signification du statut bourgeois en fréquentant cette église.</p>
+         </div>
+      </body>
+      <back>
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="2012/12/egmad1.jpg"/>
+               <head>Eglise de la Madeleine et la statue de Jules Simon.</head>
+               <note type="attribution"/>
+               <figDesc>Black and white postcard of the church and nearby statue</figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="2012/12/egmad2.jpg"/>
+               <head>Le Boulevard de la Madeleine</head>
+               <note type="attribution">Image courtesy of L'art Nouveau.com</note>
+               <figDesc>Colorized postcard of the boulevard</figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="2012/12/egmad3.jpg"/>
+               <head>Eglise de la Madeleine</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of an angle of the church</figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="2012/12/egmad4.jpg"/>
+               <head>Paris: boulevard de la Madeleine</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of a busy boulevard </figDesc>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="2012/12/egmad5.jpg"/>
+               <head>L’Eglise de la Madeleine de Paris – Les monuments en 1900 30 mai.</head>
+               <note type="attribution">Image courtesy of De Saint-Sulpice</note>
+               <figDesc>Black and white postcard of the church from 1900 </figDesc>
+            </figure>
+            <figure xml:id="fig6">
+               <graphic url="2012/12/egmad6.jpg"/>
+               <head>Le huitième arrondissement de Paris, Eugène Atget</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of the carved doors</figDesc>
+            </figure>
+            <figure xml:id="fig7">
+               <graphic url="2012/12/egmad7.jpg"/>
+               <head>La Madeleine, Porte und Heurtoir, Eugène Atget (1906)</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Photograph of a carving from one of the church's doors</figDesc>
+            </figure>
+            <figure xml:id="fig8">
+               <graphic url="2012/12/egmad8.jpg"/>
+               <head>La Madeleine, Porte, Eugène Atget (1906)</head>
+               <note type="attribution">Image courtesy of Gallica
+</note>
+               <figDesc>Photograph of a carving from one of the church's doors</figDesc>
+            </figure>
+            <figure xml:id="fig9">
+               <graphic url="2012/12/egmad9.jpg"/>
+               <head>La Madeleine sous la neige</head>
+               <note type="attribution">Image courtesy of Galerie de Souzy</note>
+               <figDesc>Oil painting of a busy Parisian square</figDesc>
+            </figure>
+            <figure xml:id="fig10">
+               <graphic url="2012/12/egmad10.jpg"/>
+               <head>Un grand mariage à la Madeleine, Paris, 1900</head>
+               <note type="attribution">Image courtesy of Wikimedia</note>
+               <figDesc>Black and white drawing of people on the stairs around the church for a wedding</figDesc>
+            </figure>
+            <figure xml:id="fig11">
+               <graphic url="2012/12/egmad101.jpg"/>
+               <head>Eglise de la Madeleine, Paris, 1900</head>
+               <note type="attribution">Image courtesy of Wikimedia</note>
+               <figDesc>Black and white drawing of people on the stairs around the church for a wedding</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>

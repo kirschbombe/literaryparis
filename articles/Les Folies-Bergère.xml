@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les Folies-Bergère</title>
+            <author>K. Thomas</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2014">Fall 2014</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p>Les Folies-Bergère sont connus comme l’un des plus prestigieux music-halls du monde. Ce lieu était né en 1869 et il est devenu le symbole de la vie parisienne et du plaisir à la française. Il se trouve dans la rue de 32 Rue Richer, du nom de l'Echevin de Paris, Jean Charles Richer. Cette rue est situé près des Grands Boulevards et donc près de beaucoup d’autres « plaisirs de Paris ». La popularité des Folies-Bergère est supportée par des nombreux tableaux de Edouard Manet et Jean Louis Forain, des cartes postales, et des affiches de Chéret. Les Folies-Bergère ont fait des apparences dans le monde de la littérature, surtout dans le roman de Maupassant, Bel-Ami.</p>
+            <p>Les Folies-Bergère sont moitié théâtre et moitié cafés-concerts. La plupart des cafés-concerts étaient simplement des cafés avec une pièce de performance pour les acteurs/actrices et les chanteurs. Les dernières décennies du siècle, les places assises étaient libres pour ce qui peut payer le frais d’entrée de deux francs. Ils y’avaient des personnes qui étaient d’un haut statut, alors ils ne paient pas. Dans, Bel-Ami, le narrateur décrit le scène dehors les Folies-Bergères: “La façade illuminée de l’établissement jetait une grade lueur dans les quatre rues qui se joignent devant elle. Une file de fiacres attendait la sortie. Forestier entrait, Duroy l’arrêta: “Nous oublions de passer au guichet.” L’autre répondit d’un ton important: “Avec moi on ne paie pas.” (32) La file de fiacres démontre la popularité des Folies-Bergère.</p>
+            <p>Les Folies-Bergère étaient le plus réussi et célèbres de tous les cafés-concerts. Ils ont servi non seulement les touristes et les gens aisés, mais ils ont aussi attiré des clients du secteur public plébéien, ce qui a aidé à construire «un vrai public”. Ce public consiste des époux/épouse, provincial, et les Parisiens qui sont des ouvriers et des aristocrates. Dans ce milieu, il y avait aussi des prostitués. Le narrateur de Bel Ami décrit, “ Dans le vaste corridor d’entrée qui mène à la promenade circulaire, où rôde la tribu parée des filles, mêlée à la foule sombre des hommes, un groupe de femmes attendait les arrivants devant un des trois comptoirs où trônaient fardées et défraîchies, trois marchandes de boissons et d’amour.” (32) Le journaliste, Forestier donne une remarque sur la population, “Remarque donc l’orchestre: rien que des bourgeois avec leurs femmes et leurs enfants, de bonne têtes stupides qui viennent pour voir. Aux loges, des boulevardiers; quelques artistes, quelques filles de demi- choix; et, derrière nous, le plus drôle de mélange qui soit dans Paris. Quels sont ces hommes? Observe-les. Il y a de tout, de toutes castes, mais la crapule domaine.” (33) Selon la déscription des Folies-Bergère dans le livre The Pleasures of the Belle Epoque, Jules Claretie a déclaré ces cafés-concerts avec ce “vrai public” sont des théâtres “démocratisé”. (64) C’est à dire que les théâtres étaient ouverts pour toutes les classes sociales, pas seulement les hautes classes.</p>
+            <p>Les clients peuvent regarder un duo de trapèze, ballets, un jongleur, un charmeur de serpent, des lutteurs, des clowns, et les actes de nouveauté comme un kangourou qui boxe un homme et une multitude des autres spectateurs. Le narrateur de Bel-Ami décrit la scène: “Sur la scène, trois jeunes hommes en maillot collant, un grand, un moyen, un petit, faisaient, tour à tour, des exercices sur un trapèze. Le grand s’avaçait d’abord, à pas courts et rapides, en souriant, et saluait avec un mouvement de la main comme pour envoyer un baiser. Il atteignait le trapèze d’un bond gracieux, et, perdu par les mains, tournait autour comme une roue lancée; ou bien, les bras raides, le corps droit, il se tenait immobile, couché horizontalement dans le vide, attaché seulement à la barre fixe par la force des poignets.” (33) Les Folies-Bergère pendant la Belle Epoque était un lieu de spectacles et de la sociabilité.</p>
+         </div>
+      </body>
+      <back>
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="2012/12/folies.png"/>
+               <head>Un bar aux folies-bergères, Edouard Manet, 1882</head>
+               <note type="attribution">Image courtesy of Wikimedia</note>
+               <figDesc>Oil painting of a woman in a busy nightclub</figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="2012/12/folies3.jpg"/>
+               <head>Carte Postale démontrant les Folies-Bergère, rue Richer, Paris, 1900</head>
+               <note type="attribution"/>
+               <figDesc>Black and white postcard depicting the façade of the Folies-Bergère</figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="2012/12/folies4.jpg"/>
+               <head>Folies-Bergères... Ira Paine </head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Advertisement for the nightclub featuring one of its acts</figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="2012/12/folies5.jpg"/>
+               <head>Un bar aux Folies-Bergère, Edouard Manet, 1882 [detail]</head>
+               <note type="attribution">Image courtesy of Wikimedia</note>
+               <figDesc>Detail of the background of a Manet painting, showing a woman sitting at a bar</figDesc>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="2012/12/folies6.jpg"/>
+               <head>Un bar aux folies-bergères, 1878, Jean Louis Forain</head>
+               <note type="attribution">Image courtesy of the Brooklyn Museum</note>
+               <figDesc>Colorful, hand drawn depiction of a woman dining in the bar</figDesc>
+            </figure>
+            <figure xml:id="fig6">
+               <graphic url="2012/12/folies2.fw_.png"/>
+               <head>Un bar aux folies-bergères, Edouard Manet [detail]</head>
+               <note type="attribution">Image courtesy of Wikimedia</note>
+               <figDesc>Detail of Manet's painting of the bar, cropped to the upper half of the woman's body. </figDesc>
+            </figure>
+            <figure xml:id="fig7">
+               <graphic url="2012/12/folies61.jpg"/>
+               <head>Folies-Bergère. Les Dante, 1890</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Advertisement featuring two dancing demons</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>

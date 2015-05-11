@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chatou</title>
+            <author>Robyn Jael Behar</author>
+            <author>Greg Harris</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2014">Fall 2014</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p>La commune de Chatou est un petit village dans le département des Yvelines, situé à 17 kilomètres au nord-ouest de Paris. Chatou se trouve sur la rive droite de la Seine, un lieu plein de beauté naturelle. Les villes et villages voisins sont Croissy-sur-Seine, Le Vésinet, Carrières-sur-Seine, Bougival, Le Port-Marly, Montesson, et Houilles. Pendant la Belle Epoque, Chatou était une destination populaire pour la bourgeoisie qui cherchait une retraite de la ville.</p>
+            <p>Pour les Parisiens, la campagne est devenue plus accessible grâce à l’extension du réseau des chemins de fer en région parisienne. En 1837, le premier chemin de fer pour les passagers était mise en place à Paris, qui s'appelait la ligne Paris-le Pecq. Plus tard, le nom est devenu celle de la ligne Saint-Germain-en-Laye (Gardin). Cette ligne avait une gare à Chatou ; et comme résultat, Chatou est devenue une destination populaire pour les Parisiens qui cherchaient une scène naturelle, une petite campagne, près de Paris. Chatou était un refuge de loisir pour la bourgeoisie, l’écrivain Guy de Maupassant, ainsi que des artistes impressionnistes tels que Pierre-Auguste Renoir, Claude Monet, et Edouard Manet.</p>
+            <p>Guy de Maupassant a beaucoup aimé le village de Chatou pendant sa vie. Il fait référence à Chatou plusieurs fois dans<hi rend="italic">Bel-Ami</hi>, ainsi que quelques autres romans, tel que<hi rend="italic">La Femme de Paul</hi>. Pendant sa jeunesse, Maupassant a adoré les passetemps dans la nature, comme par exemple, la pêche. Apres être installé à Paris, Maupassant a trouvé le passe-temps de canotage, ce qu’il faisait sur la Seine, à Chatou (Boyd). Aujourd’hui, il y a un restaurant de la cuisine traditionnelle française à Chatou qui s’appelle « Le Maupassant », en honneur de l’auteur célèbre, qui se trouve au 2, avenue Guy de Maupassant, 78400 Chatou, France.</p>
+            <p>À Chatou les loisirs sportifs étaient une sortie physique et sociale. En les parlant, il faut parler du cyclisme et du canotage. La bicyclette était une grande invention de la Belle Époque. Le Tour de France, une compétition globale du vélo, était établie à Paris dans l’année 1903 (Sansot). À Chatou, il y avait plusieurs compétitions du vélo. C’était un événement sportif et social, où les citadins peuvent profiter de la vaste zone de la campagne.</p>
+            <p>Le canotage, comme le cyclisme, était à la fois un sport et un loisir, en fonction de qui est tenant les rames. Un des tableaux célèbres,<hi rend="italic">Canotiers à Chatou</hi>(1881), représente quelques personnes qui montent a bord d’un petit bateau sur la Seine. Ces représentations de loisir dans la nature sont emblématiques de la vie à Chatou pendant la Belle Époque. Voici un extrait du premier chapitre de la deuxième partie du livre<hi rend="italic">Bel-Ami</hi>, quand les personnages principaux parlent du canotage et de la Seine à cet endroit:</p>
+            <p>Quand ils passèrent le pont d’Asnières, une gaieté les saisit à la vue de la rivière couverte de bateaux, de pêcheurs et de canotiers. Le soleil, un puissant soleil de mai, répandait sa lumière oblique sur les embarcations et sur le fleuve calme qui semblait immobile, sans courant et sans remous, figé sous la chaleur et la clarté du jour finissant. Une barque à voile, au milieu de la rivière, ayant tendue sur ses deux bords deux grands triangles de toile blanche pour cueillir les moindres souffles de brise, avait l’air d’un énorme oiseau prêt à s’envoler.</p>
+            <p>Duroy murmura : — J’adore les environs de Paris, j’ai des souvenirs de fritures qui sont les meilleurs de mon existence.</p>
+            <p>Elle répondit : — Et les canots ! Comme c’est gentil de glisser sur l’eau au coucher du soleil (185).</p>
+            <p>Il est clair que les deux, Duroy et Madeleine, pensaient à Chatou comme un lieu plein de bonnes souvenirs. Ils parlaient avec nostalgie des activités qu'ils ont faits à Chatou, comme si c’était une échappatoire pour les voyageurs légèrement hédonistes où la recherche du plaisir était la priorité supérieure à la responsabilité. Leur discussion des loisirs à Chatou est analogue à la façon dont les gens riches parlent de leurs endroits de refuge préférés aujourd’hui, comme les Hamptons ou le Cap.</p>
+            <p>On pourrait voir des aspects de Maupassant lui-même dans le personnage de Duroy. Les deux ont des similarités: ils ont grandi modestement, mais ils sont devenus célèbres et ont acquis le statut social pour leur écriture. La différence principale est que Duroy, contrairement à Maupassant, n’était pas passionné par son écriture. Il l'a utilisé plus comme un outil pour l'acquisition sociale que pour des fins intrinsèques. C’est drôle, mais potentiellement aussi intéressant de noter que les deux étaient dragueurs aussi. Duroy, qui est souvent assez fermé au sujet de son passé, mentionne qu’il a « des souvenirs de fritures qui sont les meilleurs de mon existence ». On peut imaginer que ces précieux souvenirs sont vraiment ceux de Guy de Maupassant lui-même ou de quelqu'un qu'il admirait ou qui était près de lui.</p>
+            <p>Chatou est décrit comme un échappatoire de la vie stressante dans une autre extrait du premier chapitre de la deuxième partie de<hi rend="italic">Bel-Ami</hi>, quand le protagoniste, Georges Duroy et sa femme Madeleine sont en train d’aller à la campagne pour rendre visite aux parents de Georges:</p>
+            <q>
+               <p>« Puis ils se turent comme s’ils n’avaient point osé continuer ces épanchements sur leur vie passée, et ils demeurèrent muets, savourant peut-être déjà la poésie des regrets.</p>
+               <p>Duroy, assis en face de sa femme, prit sa main et la baisa lentement.</p>
+               <p>— Quand nous serons revenus, dit-il, nous irons quelquefois dîner à Chatou.</p>
+               <p>Elle murmura : — Nous aurons tant de choses à faire ! — sur un ton qui semblait signifier : « Il faudra sacrifier l’agréable à l’utile » (185).</p>
+            </q>
+            <p>Chatou est présenté ici comme un lieu de loisirs qui peuvent fournir à leur bonheur dans un moment de stress. Duroy parle comme si la prise de son épouse à ce lieu d’idylle permettra d'alléger ses soucis. Plus tard, Duroy et sa femme passe à travers Chatou « pour ne pas refaire la même route » (310), alors c’est encore un espace en dehors de la normalité, du quotidien. On peut voir clairement à partir de ces deux extraits que les loisirs associés par Chatou sont associées avec des souvenirs plaisants et avec la détente dans la nature, une vraie échappatoire de la vie frénétique de Paris.</p>
+            <p>Pierre-Auguste Renoir, maître des peintres impressionnistes, a utilisé Chatou comme sujet pour une trentaine de ses chefs-d’oeuvres. Chatou était un « paysage qui séduisait Renoir. » selon Georges Rivière, un spécialiste de Renoir qui décrit Chatou dans son livre<hi rend="italic">Renoir et Ses Amis,</hi>en disant que c’était « remplie de grands arbres, de hautes herbes couvrent le sol, et l’eau tranquille de la rivière » (Rivière). Pendant les années 1868 à 1884, Renoir venait régulièrement à Chatou pour chercher de l’inspiration pour ses oeuvres.</p>
+            <p>Renoir a découvert Chatou en 1868 lors d’une promenade avec le Prince Bibesco de Wallachia. Le Prince était un patron du restaurant Fournaise, et il a fait connaitre le restaurant à Renoir. La Fournaise, créé par Alphonse Fournaise, restaurateur et constructeur de canots, était l’espace sociale préféré des plusieurs peintres célèbres. Renoir a dit plus tard, « J’étais toujours fourré chez Fournaise, j’y trouvais autant de superbes filles à peindre que je pouvais en désirer » (Musée Fournaise).</p>
+            <p>Avec Claude Monet, Renoir travaillait à la Grenouillère sur l’Ile de Croissy, qui n’est pas loin de Chatou. Les deux peintres n’avaient pas encore trente ans et ont commencé une série de tableaux côte à côte sur les motifs de l’eau, de la lumière et de canotage (Musée Fournaise). Chatou une scène romantique et opportune pour l’impressionnisme, un mouvement qui dépeignait souvent la nature, et, plus précisément, la verdure. En 1880, Renoir écrit à un ami : “Je suis retenu à Chatou à cause de mon tableau. Vous serez bien gentil de venir déjeuner. Vous ne regretterez pas votre voyage, c’est l’endroit le plus joli des alentours de Paris” (Musée Fournaise). Cependant, les impressionnistes n’ont pas peint seulement la nature ; leurs scènes ont souvent représentés des bourgeoises en train de bavarder, de manger le dîner en plein air, et de faire la natation ou le canotage dans l’espace publique de Chatou.</p>
+            <p>Le tableau de Claude Monet,<hi rend="italic">Bain à la Grenouillère</hi>(1869) dépeint plusieurs personnes qui nagent dans la Seine. Monet utilise huile sur toile et des vastes zones de couleur avec la touche libérée pour indiquer les bateaux en arrière-plan, tandis que des points dans l'eau éclairée dans le fond qui représentent une partie de baigneurs dans la rivière. La Grenouillère elle-même était un restaurant flottant, qu’il a peint séparément avec l’aide de Renoir en 1869. Pendant l'été de 1869 Monet vivait près de La Grenouillère avec sa maîtresse, Camille, et leur fils ("Bathers at La Grenouillère”). Selon le Musée Métropolitain D'Art, Monet et Renoir la trouvée « comme sujet idéal pour les images de loisirs qu'ils espéraient vendre. Optimiste promu comme un "Trouville-sur-Seine," il était facilement accessible en train depuis Paris et vient d'être favorisé par une visite de l'empereur Napoléon III et sa femme et son fils ».</p>
+            <p>Chatou était une échappatoire de la vie quotidienne pour la classe de loisir pendant la Belle Époque. Au tournant du 20e siècle, Paris a grandi de plus en plus urbanisée et industrialisée. Moins d’une heure en dehors de Paris si on prend le train, la location pittoresque de Chatou était idéal pour de brèves vacances. Les gens avec du temps et de l'argent pour voyager pourraient profiter des occasions d'être actifs, à la fois physiquement et socialement. La beauté naturelle a inspirée de l'art intemporel par certains des plus grands peintres et écrivains du monde, surtout des impressionnistes, et leurs visions de Chatou dureront dans les domaines de l’art et de la littérature à jamais.</p>
+            <p style="subhead">Metadiscussion</p>
+            <p>La commune de Chatou est intéressante de discuter au vu de nos études au sujet de la Belle Époque et l’idée de « Conspicuous Consumption ». Chatou était liée uniquement à l’époque à la cause de ce qu’elle a représenté pour la classe de loisir. Peut-être la haute bourgeoisie a passé leurs vacances à la Cote d’Azur, mais Chatou était beaucoup plus près de Paris, et donc plus accessible pour des brèves vacances. Chatou s’est ainsi établi comme la destination de vacances la plus proche ou la classe de loisir Parisienne pourrait échapper ostensiblement de la ville et s’amusaient dans la nature. Mais l’ironie de Chatou est qu’il n’était pas exactement une vraie échappatoire de Paris du tout. Chatou est mieux caractérisée comme une<hi rend="italic">extension</hi>de Paris : une espèce publique ou la bourgeoisie Parisienne pourrait voir des gens et être vu par des gens.</p>
+            <p>Nous avons abordé notre sujet avec un accent sur le style de vie qu'il représentait, et une étude de l'art qu'il a inspiré et qui a été utilisée pour l’illustrer. Chatou n’était pas seulement un lieu de loisirs pour plusieurs artistes, notamment des peintres impressionnistes comme Claude Monet et Pierre-Auguste Renoir, mais il a inspiré plusieurs de leurs œuvres remarquables. Nous avons choisi des peintures pour la plupart de nos images, en particulier ceux qui représentent la scène sociale et la beauté naturelle qui entoure la Seine qui traverse Chatou. Nous n’avons pas eu trop de la difficulté à trouver des sources pour ce projet. Nous supposons que c’était la plus difficile de trouver des sources qui étaient spécifiques à Chatou seulement pendant la Belle Epoque quand il y avait beaucoup d'informations qui couvraient la zone aux autres temps. Ce projet a ajouté à nos connaissances de la Belle Epoque par nuancer notre compréhension d'un lieu qui était très important dans des vies de la bourgeoisie parisienne. C’est possible qu’en représentant ce lieu dans les humanités digitales, il pourrait le rendre plus intéressant et accessible aux étudiants de notre génération et celles à venir.</p>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Arrivetz, Pierre (2003). Chatou. Saint-Cyr-sur-Loire: Editions Alan Sutton. Print.</bibl>
+               <bibl>Billy, A. (1951). L'Époque 1900: 1885-1905.Paris: J. Tallandier.</bibl>
+               <bibl>Bornot, L (1852). Notice Historique Sur Chatou Et Les Environs. Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-1999. 1 vol. (118 p.) Gallica</bibl>
+               <bibl>Boyd, Ernest Augustus, 1887-1946. Guy De Maupassant : A Biographical Study. United States:,1926</bibl>
+               <bibl>Chting, K. (1996). Renoir, Paris and the Belle Epoque. Munich: Prestel. Print.</bibl>
+               <bibl>Gardin Jean, «La friche de l'île de Chatou, ultime frontière de l'axe historique de Paris?», L’Espace géographique2/ 2006 (Tome 35), p. 163-176 URL :www.cairn.info/revue-espace-geographique-2006-2-page-163.htm.</bibl>
+               <bibl>"Heilbrunn Timeline of Art History."Claude Monet: La Grenouillère (29.100.112).</bibl>
+               <bibl>Metropolitan Museum of Art.</bibl>
+               <bibl>McAuliffe, Mary (2014). "Twilight of the Belle Epoque."Google Books. Rowman &amp; Littlefield.</bibl>
+               <bibl>"Musée Fournaise à Chatou - Un Peu D'histoire."Musée Fournaise à Chatou - Un Peu D'histoire.</bibl>
+               <bibl>Rivière, Georges. Renoir Et Ses Amis. Paris: H. Floury, 1921.</bibl>
+               <bibl>Sagner-Düchting, Karin (1996).Renoir, Paris and the Belle Epoque. Munich: Prestel, Print.</bibl>
+               <bibl>Sansot, Pierre. "LE TOUR DE FRANCE : UNE FORME DE LITURGIE NATIONALE."Cahiers Internationaux De Sociologie86 (1989): 91-105.JSTOR. Web. 03 Dec. 2014.</bibl>
+               <bibl>"Ville De Chatou - Le Site Officiel."Ville De Chatou - Le Site Officiel.</bibl>
+            </listBibl>
+         </div>
+      </body>
+      <back>
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="2014/09/Claude_monet_la_grenouillère_1869_02.jpg"/>
+               <head>La Grenouillère - Claude Monet</head>
+               <note type="attribution">Photo from Wikimedia Commons, via user Sailko</note>
+               <figDesc/>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="2014/09/oarsmen.jpg"/>
+               <head>Les canotiers à Chatou - Pierre-Auguste Renoir</head>
+               <note type="attribution">Photo from Wikiart.org</note>
+               <figDesc/>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="2014/12/the-seine-at-chatou-1881.jpg"/>
+               <head>La Seine à Chatou - Pierre-Auguste Renoir</head>
+               <note type="attribution">Image from Wikiart.org</note>
+               <figDesc/>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="2014/12/Pierre-Auguste_Renoir_-_Le_Pont_de_Chatou-e1418359345281.jpg"/>
+               <head>Le Pont de Chatou - Pierre-Auguste Renoir</head>
+               <note type="attribution">Photo from Wikimedia Commons</note>
+               <figDesc/>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="2014/12/1879_Affiche.jpg"/>
+               <head>Affiche: Bal de la Grenouillère tous les jeudis</head>
+               <note type="attribution">Photo from Archives.Croissy.com</note>
+               <figDesc/>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>

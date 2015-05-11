@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Théâtre du Vaudeville</title>
+            <author>Dan Watters</author>
+            <author>Taylor Westerhof</author>
+            <author>Anita Rao</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2012">Fall 2012</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p>Le Théâtre du Vaudeville a une grande histoire qui date de 1792. Ce théâtre a été placé dans quelques bâtiments différents au cours des années (même dans un théâtre qui a brûlé complètement en 1838), mais Le Théâtre du Vaudeville qui était connu pendant La Belle Epoque était situé à l’angle de la Rue de la Chaussée et le Boulevard des Capucines, près du Café Américain et juste en face du Café Napolitain. Le théâtre était construit par l’architecte Auguste Magne de 1867 à 1869 à l’ancien place de l’’hôtel de Montmorency. Magne a accordé l'architecture du théâtre avec celle des autres bâtiments dans la même rue.</p>
+            <p>Le Théâtre du Vaudeville était le lieu de performance de beaucoup des pièces : Evidemment les « Vaudevilles », mais aussi les pièces comiques, et les drames domestiques ont été tous performés dans ce théâtre. Le théâtre a servi comme un hall de performance pour certains des acteurs et des pièces les plus célèbres de la France, comme les pièces écrites par Émile Zola, Émile Augier, la pièce d’Alexandre Dumas intitulée<hi rend="italic">Camille</hi>, et même la pièce très connue,<hi rend="italic">Peter Pan</hi>de J.M. Barrie était performée sur la scène du théâtre. On peut dire aussi que le Théâtre du Vaudeville était le premier lieu dans lequel les couplets politiques ont eu du succès. En plus, en 1892, le directeur du Théâtre du Vaudeville, Paul Porel, a épousé Gabrielle Réjane, une actrice et aussi une grande rivale de la ‘divine’ actrice de la période, Sarah Bernhardt.</p>
+            <p>Avec de la place pour 1,260 de spectateurs, Le Théâtre du Vaudeville avait les sièges des qualités différentes qui montraient le statut du spectateur par les prix des admissions. Le statut est quelque chose qui était très important pour ceux qui sont allés au Théâtre du Vaudeville pendant La Belle Epoque. Situé sur un des quatre grands boulevards de Paris, ce théâtre était une destination idéale pour ceux qui ont eu le temps à gaspiller et ceux qui ont voulu exposer fièrement leur richesse, la classe de loisir. Pendant les premières performances d'une pièce, les femmes de la bourgeoisie portaient les robes du soir qui étaient très ornées pour célébrer le nouveau spectacle. L’architecture du théâtre était tellement détaillée, avec les bustes d’Eugène Scribe, Charles Colle et Marc Antoine Désaugiers au-dessus des trois fenêtres du premier étage du bâtiment. Il y avait aussi une statue d’Apollon au milieu du fronton et des statues des femmes qui représentaient la folie, la comédie, la satire et la musique et qui étaient faites par le sculpteur Jules Salmson. Avec ces pièces d’art magnifiques, c’est facile de voir pourquoi une soirée au Théâtre du Vaudeville était considérée comme une occasion pour les spectateurs de prouver qu’ils étaient les gens importants et de montrer ce qu’ils avaient. Les grands escaliers uniques du théâtre aidaient aussi à évoquer un sentiment d'élégance qui était inégalée pendant l’époque.</p>
+            <p>Les années de la Belle Epoque ont vu la dernière vie du Théâtre du Vaudeville ; en 1920 le théâtre a été acquis par l’entreprise de Paramount et s’était transformé en un cinéma de 1,900 de places en 1927. L’ancien lieu du Théâtre du Vaudeville opère toujours sous le nom de Gaumont Opéra aujourd’hui. Mais malgré le fait que la nouvelle technologie de cinématographie a repris ce théâtre fameux, on ne peut pas oublier un théâtre avec une histoire assez merveilleuse que celle du Théâtre du Vaudeville, ni des pièces innovantes qui étaient performées entre les murs du théâtre.</p>
+         </div>
+      </body>
+      <back>
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="2012/12/TV1.jpeg"/>
+               <head>Dictionnaire historique et pittoresque du théâtre et des arts qui s'y rattachent. 1885</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Line drawing of the theater's exterior</figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="2012/12/TV2.jpeg"/>
+               <head>Théâtre du Vaudeville. Carte Postale. 1904</head>
+               <note type="attribution"/>
+               <figDesc>Black and white postcard of the theater's front façade</figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="2012/12/TV4.jpeg"/>
+               <head>Aspect de loge au Vaudeville : dessin Paul Charles. 1913</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Drawing of two people in a dressing room</figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="2012/12/TV5.jpeg"/>
+               <head>Théâtre du Vaudeville : documents iconographiques. 1903-1904</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Photograph of the theater's 1903-1904 program</figDesc>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="2012/12/TV6.jpeg"/>
+               <head>Théâtre du Vaudeville. Les Affolés : [estampe]. 1883</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Wood engraving of caricatures of theater patrons </figDesc>
+            </figure>
+            <figure xml:id="fig6">
+               <graphic url="2012/12/TV7.jpeg"/>
+               <head>Vaudeville Théâtre. A Night Out : [affiche]. 1890</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Poster advertisement for the theater featuring a woman begging her husband to confess to something</figDesc>
+            </figure>
+            <figure xml:id="fig7">
+               <graphic url="2012/12/TV8.jpeg"/>
+               <head>Vaudeville theatre ... The new farce. On and Off... : [affiche]. 1890</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Advertisement for the theater showing a modern woman walking</figDesc>
+            </figure>
+            <figure xml:id="fig8">
+               <graphic url="2012/12/m110400_27119-7_p.jpg"/>
+               <head>Le Boulevard des Capucines, devant le Théâtre du Vaudeville. Jean Béraud. 1889</head>
+               <note type="attribution">Image courtesy of the Musee Carnavalet</note>
+               <figDesc>Oil painting of Parisians crossing a busy street </figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>

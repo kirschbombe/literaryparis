@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Boulevard Malesherbes</title>
+            <author>Dan Watters</author>
+            <author>Taylor Westerhof</author>
+            <author>Anita Rao</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2012">Fall 2012</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Le boulevard porte le nom de Chrétien Guillaume de Lamoignon de Malesherbes, Directeur de la Librairie, et Président du Cours des Aides, une partie du gouvernement qui s’occupe de garder la culture de la France. Néanmoins il a été guillotiné en 1789 pour avoir soutenu le roi pendant La Révolution.</p>
+            <p>Le boulevard Malesherbes est situé au entre du huitième arrondissement et du dix-septième arrondissement. Pendant La Belle Epoque, et aujourd’hui, le huitième arrondissement était un lieu où il y a beaucoup à regarder, et à faire. Dans le huitième arrondissement il y a des autres grands boulevards comme le Champs-Elysées, et il y a des monuments comme la Place de la Concorde, l’Arc de Triomphe, le Grand Palais, le Petit Palais, l’Église de la Madeleine, et le Parc Monceau.</p>
+            <p>Après les changements architecturaux de Haussmann, le boulevard Malesherbes avait beaucoup d’appartements simples. Il était un fait courant pour les constructeurs d’acheter la moitié d’une rue et construire appartement après appartement. Les appartements n’avaient pas les sculptures ou les détails comme les bâtiments avant, et tous les appartements avaient la même hauteur. Pendant le 1880s et 1890s les architectes ont essayé à changer les bâtiments pour un « look » diffèrent et éclectique.</p>
+            <p>Avec les rénovations des appartements pendant la fin du dix-neuvième siècle il y avait des grands appartements qui ont habité par les grands bourgeois. Les grand Bourgois était les banquiers, et aussi les capitaines d’industries. Un exemple d’un grand Bourgois est Monsieur Walter de<hi rend="italic">Bel-Ami</hi>, il habite au boulevard Malesherbes, il y a une description dans le livre.</p>
+            <q>
+               <p>« M. Walter habitait, boulevard Malesherbes, une maison double lui appartenant, et dont une partie était louée, procédé économique de gens pratiques. Un seul concierge, gîté entre les deux portes cochères, tirait le cordon pour le propriétaire et pour le locataire, et donnait à chacune des entrées un grand air d’hôtel riche et comme il faut par sa belle tenue de suisse d’église, ses gros mollets emmaillotés en des bas blancs, et son vêtement de représentation à boutons d’or et à revers écarlates.</p>
+               <p>Les salons de réception étaient au premier étage, précédés d’une antichambre tendue de tapisseries et enfermé par des portières. Deux valets sommeillaient sur des sièges. Un d’eux prit le pardessus de Duroy, et l’autre s’empara de sa canne, ouvrit une porte, devança de quelques pas le visiteur, puis, s’effaçant, le laissa passer en criant son nom dans un appartement vide. »</p>
+            </q>
+            <p>Le Boulevard Malesherbes se vante de beaucoup de bâtiments comme les grands hôtels, les églises, et les bels appartements. Pendant La Belle Époque, quelques hommes célèbres habitaient le Boulevard Malesherbes, comme Gabriel Fauré et le romancier Marcel Proust, l’auteur de<hi rend="italic">À La Recherche Du Temps Perdu</hi>. En 1873 Proust a déménagé au Boulevard Malesherbes avec sa famille, près de l’Église de la Madeleine. Fauré, connu pour sa musique de chambre, a habité également le Boulevard Malesherbes, était un compositeur très connu à la Belle Epoque.</p>
+            <p>De toutes les structures du boulevard Malesherbes, il y a un bâtiment qui est très connu ; L’Église Saint-Augustin. L’église a été construite par Victor Baltard entre 1860 et 1871, juste avant la Belle Époque. Elle est au croisement du Boulevard Haussmann et du Boulevard Malesherbes. Beaucoup de fois le boulevard Malesherbes est représenté par une photo de l’Église Saint-Augustin.</p>
+            <p>Le boulevard Malesherbes était un endroit très chic pendant La Belle Epoque. Les appartements des grands Bourgois étaient bels avec les rénovations, et les monuments ont ajute au boulevard. On peut voir pourquoi beaucoup de gens célèbres ont habité là-bas, et pourquoi on voudrait le visiter.</p>
+         </div>
+      </body>
+      <back>
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="2012/12/f11.jpg"/>
+               <head>Église de Saint-Augustin Vue prise du Boulevard Malesherbe</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Color lithograph of a church </figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="2012/12/BM1.jpeg"/>
+               <head>Hôtel [Gaillard, hôtel particulier], boulevard Malesherbes [à vendre]. 1913</head>
+               <note type="attribution"/>
+               <figDesc>Black and white photograph of the hotel's exterior</figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="2012/12/BM3.jpeg"/>
+               <head>Saint-Augustin [vue de la façade de l'église]. 1913</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of the St. Augustin Church</figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="2012/12/BM4.jpeg"/>
+               <head>Obsèques de Mr Paul Déroulède. 1914</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of a funeral occurring outside the church  </figDesc>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="2012/12/BM5.jpeg"/>
+               <head>Paris, fêtes de Jeanne d'Arc. 1912</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of a statue covered in flowers</figDesc>
+            </figure>
+            <figure xml:id="fig6">
+               <graphic url="2012/12/BM6.jpeg"/>
+               <head>Gabriel Fauré, devant son piano, dans son appartement boulevard Malesherbes. 1905</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of Gabriel Fauré standing in front of his piano in his apartment on Boulevard Malesherbes</figDesc>
+            </figure>
+            <figure xml:id="fig7">
+               <graphic url="2012/12/BM7.jpeg"/>
+               <head>Jeunes garçons faisant la quête devant un lycée transformé en ouvroir. 1914</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of young boys outside of their high school</figDesc>
+            </figure>
+            <figure xml:id="fig8">
+               <graphic url="2012/12/BM8.jpeg"/>
+               <head>Exposition du 17 mai au 6 juin. 1900</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Poster advertising upcoming expositions on the Boulevard Malesherbes</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>

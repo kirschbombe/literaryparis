@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bougival </title>
+            <author>K. Gregs</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2012">Fall 2012</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p>La belle époque est souvent considérée comme une période pendant laquelle les arts étaient florissants. Beaucoup d’artistes se sont installés à Paris, en particulier ceux qui se sont nommés des « impressionnistes ». Sans doute, Bougival était un des lieux les « plus chic » pour les artistes pendant la belle époque, mais spécifiquement pour ceux qui ont pratiqué ce nouvel impressionnisme. Grace aux nouveaux transports, Bougival était aussi un des multiples lieux aux environs de Paris qui devient accessible aux parisiens.</p>
+            <p>Bougival est un environ de Paris, presque sept miles à l’ouest. Quand George Bradshaw, un anglais, y est allé dans les années 1850, il a écrit que Bougival était un des endroits les plus romantiques de tous les environs de Paris. Pendant les années 1850, il y avait environ 1400 habitants à Bougival. (Bradshaw, 75) La ville se situe au sommet d’une colline en bord de la Seine, créant une image très pittoresque. Bougival offrait de nombreuses vues panoramiques de la Seine pendant la Belle Epoque, comme il y avait beaucoup d’images de la nature et aussi les châteaux (Château de Madame Dubarry et Château de la Jonction, pour exemple) qui étaient là depuis la France prérévolutionnaire.(Davis et Leshko, 82)</p>
+            <p>Le village était plein des travailleurs agricoles pendant l’époque, comme ils comprenaient la plupart des habitants en France pendant la belle époque. Il y avait des vignerons, ceux qui travaillent aux pépinières et fruitiers, les forestiers, et les cultivateurs de blé.(Ville de Bougival) Malgré ce fait, le plus souvent on associe Bougival avec les artistes, et en particulier les impressionnistes. Les vues de la Seine, des châteaux, et des moulins ruraux offraient des sources d’inspiration pour de multiples artistes. Les artistes aimaient bien s’installer en bord de la Seine pour reproduire des images de la nature, et nous pouvons voir les jolis effets de la lumière dans ses œuvres. (Herbert, 203)</p>
+            <p>Dans les années 1860 et 1870, les impressionnistes sont arrives à Bougival en masse. Quelques artistes notables de la période sont Jean-Auguste Renoir, Claude Monet, Alfred Sisley, et Berthe Morisot. (Herbert, 204) Une véritable colonie des artistes prospérait à Bougival pendant ces années. Bougival était un lieu où les artistes pouvaient combiner l’art et la nature pour produire des scènes très intimes. Durant les étés, les artistes pouvaient s’installer près de la Seine et peindre « en plein air », une idée initiée par Charles-François Daubigny et pratiquée tout de suite par Claude Monet. (Davis et Leshko, 82)</p>
+            <p>Le but pour les artistes à Bougival n’était pas d’exister dans les lieux « pareilles» aux Paris et la vie urbaine ; en fait, ils voulaient travailler dans une sphère unique est moins « moderne ». (Lübbren, 149) Pour eux, être à Bougival était une expérience à la fois « urbaine et naturelle » : séparée de Paris mais avec une influence Parisienne qui reste. (Lübbren 149) C’était aussi beaucoup plus facile de la faire pendant la belle époque grâce au développement des « petits trains d’intérêt local », qui ont facilité le voyage aux environs de Paris pour seulement un jour. (Holmes et Tarr, 88) Donc, c’était beaucoup plus facile pour les artistes (et les bourgeoises) d’être mobile.</p>
+            <p>Avec l’arrivée des artistes, la ville de Bougival en a profité pleinement. (Ville de Bougival) Il est devenu un lieu où les bourgeois et les écrivains sont allés pour se divertir et apprécier la nature très près des périphéries de Paris. (Davis et Leshko, 82) Il est devenu un endroit pour le divertissement et le loisir, comme les guinguettes, où il y avait beaucoup de danse et l’interaction sociale. Nous pouvons voir exemples de ses évènements du loisir représenté dans l’œuvre<hi rend="em">Bal à Bougival</hi>de Renoir. (Boston Museum of Fine Arts) Entre le commencement de la belle époque et sa fin juste avant la première guerre mondiale, la population de Bougival passa d’un peu plus de mille habitants jusqu`à plus de trois mille habitants. (Ville de Bougival) Donc, il est clair que pour certains, la belle époque était vraiment le moment d’un approfondissement de l’art, du loisir, et du plaisir.</p>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Bradshaw, George. Bradshaw’s Illustrated Guide (Bradshaw’s Guide) Through Paris and Its Environs, Etc. [With a Map.]. London, 1855.</bibl>
+               <bibl>“Bougival Hier: La Belle Epoque.” Ville De Bougival, n.d. http://www.ville-bougival.fr/Bougival-Hier.</bibl>
+               <bibl>"Dance at Bougival," Museum of Fine Arts, Boston. Website: http://www.mfa.org/collections/object/dance-at-bougival-32592</bibl>
+               <bibl>Herbert, Robert L. Impressionism: Art, Leisure, and Parisian Society. New Haven: Yale University Press, 1988.</bibl>
+               <bibl>Holmes, Diana, and Carrie Tarr. A “Belle Epoque”?: Women in French Society and Culture, 1890-1914. New York: Berghahn Books, 2006.</bibl>
+               <bibl>Lübbren, Nina. Rural Artists’ Colonies in Europe, 1870-1910. New Brunswick, NJ: Rutgers University Press, 2001.</bibl>
+               <bibl>Smith College Museum of Art, John Davis, and Jaroslaw Leshko. The Smith College Museum of Art: European and American Painting and Sculpture, 1760-1960. New York: Hudson Hill Press, 2000.</bibl>
+            </listBibl>
+         </div>
+      </body>
+      <back>
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="2012/12/le-bal-a-bougival-br.jpg"/>
+               <head>Le bal a Bougival (1883) Renoir</head>
+               <note type="attribution">Image courtesy of Book530</note>
+               <figDesc>Oil painting of a young couple dancing</figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="2012/12/Pierre-Auguste_Renoir_-_Vue_de_Bougival.jpg"/>
+               <head>Vue de Bougival (1873) Renoir</head>
+               <note type="attribution"/>
+               <figDesc>Oil painting of a boathouse and a couple by the water</figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="2012/12/eugene-manet-and-his-daughter-at-bougival.jpg"/>
+               <head>Eugène Manet et sa fille Julie à Bougival (1881) Morisot</head>
+               <note type="attribution">Image courtesy of Wikimedia</note>
+               <figDesc>Oil painting of Manet and his daughter, sitting on a park bench</figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="2012/12/Regates-a-Bougival.jpg"/>
+               <head>Les régates à Bougival (1905) Maurice de Vlaminck</head>
+               <note type="attribution">Image courtesy of Christie's</note>
+               <figDesc>Oil painting of a village along the water</figDesc>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="2012/12/ete-a-bougival.jpg"/>
+               <head>L’été à Bougival (1876) Sisley</head>
+               <note type="attribution">Image courtesy of Artnet</note>
+               <figDesc>Oil painting of a man walking along the bank of a river</figDesc>
+            </figure>
+            <figure xml:id="fig6">
+               <graphic url="2012/12/Sisley-Seine-a-bougival.jpg"/>
+               <head>La Seine à Bougival (1872) Sisley</head>
+               <note type="attribution">Image courtesy of Wikimedia</note>
+               <figDesc>Oil painting of a small boat and a few men on the bank of the Seine</figDesc>
+            </figure>
+            <figure xml:id="fig7">
+               <graphic url="2012/12/pont-de-bougival.jpg"/>
+               <head>Le pont de Bougival (1870) Monet</head>
+               <note type="attribution">Image courtesy of Wikipaintings.org</note>
+               <figDesc>Oil painting of a bridge going over the Seine</figDesc>
+            </figure>
+            <figure xml:id="fig8">
+               <graphic url="2012/12/seine-a-bougival.jpg"/>
+               <head>La Seine à Bougival (1872) Monet</head>
+               <note type="attribution">Image courtesy of Kunstkopie.de</note>
+               <figDesc>Oil painting of the Seine river</figDesc>
+            </figure>
+            <figure xml:id="fig9">
+               <graphic url="2012/12/jardin-de-bougival.jpg"/>
+               <head>Jardin de Bougival (1884) Morisot</head>
+               <note type="attribution">Image courtesy of Blistar.net</note>
+               <figDesc>Impressionist oil painting of a garden</figDesc>
+            </figure>
+            <figure xml:id="fig10">
+               <graphic url="2012/12/dejeuner.jpg"/>
+               <head>Le Déjeuneur des canotiers (1881) Renoir</head>
+               <note type="attribution">Image courtesy of WebMuseum</note>
+               <figDesc>Oil painting of young men and women having lunch</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>

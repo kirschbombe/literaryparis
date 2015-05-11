@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Café Riche</title>
+            <author>Gabriel Boyer</author>
+            <author>Reva Baylets</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2012">Fall 2012</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p>Dans Bel-Ami, notre introduction au café Riche vient du point de vue de Duroy, qui arrive à ce type de restaurant de luxe pour la première fois. Cette distinction nous permet d’ éprouver la même surcharge sensorielle du protagoniste qui nous invite à partager l’expérience de l’environnement de ce grand restaurant:</p>
+            <q>«Il entendait dans toute cette vaste maison une rumeur confuse, ce bruissement des grands restaurants restaurants fait du bruit des vaiselles et des argenteries heurtées, du bruit des pas rapides des garçons adouci par le tapis des corridors, du bruit des portes un moment ouvertes et qui laissent échapper le son des voix de tous ces étroits salons où sont enfermés des gens qui dînent» (Maupassant 85).</q>
+            <p>Tout le reste du passage indique aussi cette surcharge, particulièrement quant aux conversations au sujet de la sexualité, aidées par l’aphrodisiaque des huîtres, un des hors d’œuvres les plus célébrés pendant la Belle Époque.</p>
+            <p>Cette surcharge est une grande partie de l’allure du café Riche; il était censé être, comme son titre, un lieu très ostentatoire, décadent, et sensoriel dès sa fondation en 1785. Dans une publicité pour l’établissement publiée par «Bignon Aîné, père et fils, propriétaires», le restaurant et sa raison d’être sont décrits:</p>
+            <q>«Cet établissement respectable a pris pour devise de donner le bien-être à chacun, et il remplit ce devoir d’une façon sérieuse» (Joanne 50).</q>
+            <p>Un type de témoignage intenté de représenter la perspective d’un touriste anglais a paru dans Pleasure guide to Paris (1903) qui corrobore cette notion de l’atmosphère sensorielle:</p>
+            <q>«This has been well-named "riche," for though its monumental hall is always brilliant with light, it is somewhat of a solemn appearance. The whole place resembles a palace and, therefore, lacks homeliness, so that it does not at first attract the visitor: it rather inspires him with awe...They delight in numbers, so at the dining table here may always be found a numerous company full of life and gaiety» (Day 12).</q>
+            <p>En plus des plaisirs qui s’y trouvaient, le restaurant, situé au 16 Boulevard des Italiens, en centre des lieux de plaisir, possédait une façade qui, même avec son «unique fenêtre» (Maupassant 85), était merveilleux. Des aspects les plus attirants de cette façade étaient les panneaux dessinés par Jules Blanchard. Ces bas-reliefs étaient ordonnés par l’architecte Albert Ballu afin de décorer le Boulevard des Italiens. Ces bas-reliefs étaient finis en 1894, mais ils étaient arrachés quelques années après en 1898, et comme ça l’un d’entre eux est perdu. Les bas-reliefs qui ont survécu s'appellent Les Fleurs, et ils montrent une jolie femme qui porte une robe verte qui est un peu ébouriffé dans une manière qui apporte peut-être une connotation sexuelle, tout comme l’expérience décrite dans Bel-Ami.</p>
+            <p>Une autre façon dans laquelle cet endroit est suggestif du roman de Maupassant est à l’égard de la compétition. Tout comme Duroy, le protagoniste opportuniste du roman, le restaurant était compétitif avec son voisin, le café Hardy. En fait, le slogan drôle de cet autre café communique les prix très chers du café Riche et de la Maison Dorée” «Il faut être riche pour dîner chez Hardy, et très hardi pour dîner chez Riche» (Reynolds-Ball 200).</p>
+            <p>Mais on peut voir que le café Riche profitait (de la même manière Duroy) de cette réputation de ses prix hauts à travers l’affiche dessiné par Jules A. Grun. Cette œuvre dépeint une femme prise entre deux policiers, et le texte est un peu ironique: «Où la mènent-ils? ‹Au violon›: Le soir à 9 heures au café Riche». Le mot «violon» peut signifier l’instrument musical, mais ici le double-entendre est important parce que «violon» est aussi un mot de l’argot qui veut dire «la prison». Une analyse possible est que, comme les repas avaient une bonne réputation et la clientèle est très affluente au café, cette femme, vêtue d’une manière voyante, ne pouvait pas résister d’entrer dans le café et dîner sans payer les prix très hauts– le restaurant était si bon qu’on ne pouvait pas y résister.</p>
+            <p>Cependant, le café "irrésistible" était fermé en 1916, à cause du siège de la ville pendant la Grande Guerre. Après la fermeture, le restaurant a été converti en une banque. Mais dans les photographes de cette banque, on peut toujours voir le décor doré et décadent qui sert comme un écho de la gloire passée du café Riche.</p>
+         </div>
+      </body>
+      <back>
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="2012/12/index.php_.jpg"/>
+               <head>Affiche pour le Café Riche, "Où la mènent-ils Au Violon". (1896-1900) </head>
+               <note type="attribution">Image courtesy of the New York Public Library</note>
+               <figDesc>Advertisement poster for Café Riche, featuring a woman in a red dress</figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="2012/12/14003-3.jpg"/>
+               <head>Paris (IXème arr.). Le café Riche, boulevard des Italiens, vers 1900.</head>
+               <note type="attribution">Image courtesy of Paris en Images</note>
+               <figDesc>Exterior of the Café Riche and view along a boulevard, black and white photograph</figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="2012/12/10477-6.jpg"/>
+               <head>Paris IXème arr.. Le café Riche, boulevard des Italiens. Vers 1900</head>
+               <note type="attribution">Image courtesy of Paris en Images</note>
+               <figDesc>Exterior of the Café Riche, black and white photograph</figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="2012/12/Menu.png"/>
+               <head>Le Menu du Café Riche</head>
+               <note type="attribution">Image courtesy of Hathi Trust</note>
+               <figDesc>Text image of the menu at Café Riche</figDesc>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="2012/12/Cafe_riche.jpg"/>
+               <head>Vue extérieure du Café Riche (1894)</head>
+               <note type="attribution">Image courtesy Musées en Haute-Normandie</note>
+               <figDesc>Black and white photograph of the façade of Café Riche</figDesc>
+            </figure>
+            <figure xml:id="fig6">
+               <graphic url="2012/12/Fleurs.jpg"/>
+               <head>Les Fleurs</head>
+               <note type="attribution">Image courtesy of Musées en Haute-Normandie</note>
+               <figDesc>Painted relief statue of a woman holding flowers</figDesc>
+            </figure>
+            <figure xml:id="fig7">
+               <graphic url="2012/12/12649-5.jpg"/>
+               <head>Paris IXème arr.. Les cuisines du café Riche fondé en 1785, 16, boulevard des Italiens. Gravure (1865).</head>
+               <note type="attribution">Image courtesy of Paris en Images</note>
+               <figDesc>Cooks prepare food and waiters gather trays in this black and white engraving of the kitchen at Café Riche</figDesc>
+            </figure>
+            <figure xml:id="fig8">
+               <graphic url="2012/12/f1.highres5.jpg"/>
+               <head>Le deuxième emprunt : l'intérieur de l'ancien café Riche transformé en banque</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of men and women sitting in the Café Riche, which has been turned into a bank</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>
