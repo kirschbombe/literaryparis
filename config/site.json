@@ -8,6 +8,7 @@
                         "article/:id"   : "article",
                         "page/:page"    : "page"
                     },
+                    "router" : { "history" : true       },
                     "pages"     : {
                         "map-title" : [
                               { "view"    : "views/map"   }
