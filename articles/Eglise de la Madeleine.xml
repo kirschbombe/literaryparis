@@ -40,7 +40,7 @@
          <note type="mapmarker">
             <placeName>L'Eglise de la Madeleine</placeName>
             <geo>2.324538 48.870072</geo>
-            <p>'Dès huit heures du matin, tout le personnel de la Madeleine étendant sur les marches du haut perron de cette église qui domine la rue Royale un large tapis rouge, faisait arrêter les passants, annonçait au peuple de Paris qu'une grande cérémonie allait avoir lieu.'  (323 Bel-Ami)</p>
+            <p>« Dès huit heures du matin, tout le personnel de la Madeleine étendant sur les marches du haut perron de cette église qui domine la rue Royale un large tapis rouge, faisait arrêter les passants, annonçait au peuple de Paris qu'une grande cérémonie allait avoir lieu. » (Bel-Ami, p.323)</p>
          </note>
       </note>
       <back>
@@ -102,12 +102,6 @@
             <figure xml:id="fig10">
                <graphic url="../images/egmad10.jpg"/>
                <head>Un grand mariage à la Madeleine, Paris, 1900</head>
-               <note type="attribution">Image courtesy of Wikimedia</note>
-               <figDesc>Black and white drawing of people on the stairs around the church for a wedding</figDesc>
-            </figure>
-            <figure xml:id="fig11">
-               <graphic url="../images/egmad101.jpg"/>
-               <head>Eglise de la Madeleine, Paris, 1900</head>
                <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Black and white drawing of people on the stairs around the church for a wedding</figDesc>
             </figure>
