@@ -1,0 +1,19 @@
+#title-footer {
+    position: absolute !important;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	margin-bottom: 30px;
+	margin-right: 0;
+	margin-left: 0;
+} 
+#title-footer p {
+    margin-left: auto;
+    margin-right: auto;
+}
+p.byline {
+    margin-bottom: 70px !important;
+}
+p.course {
+    margin-bottom: 30px !important;
+}
