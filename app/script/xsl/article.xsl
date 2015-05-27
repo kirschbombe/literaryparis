@@ -94,7 +94,7 @@
 
     <xsl:template match="tei:div[@type='bibliography']">
         <div>
-            <h6>Works Cited</h6>
+            <h6>Bibliographie</h6>
             <xsl:apply-templates/>
         </div>
     </xsl:template>
