@@ -1,4 +1,4 @@
 [submodule "app"]
 	path = app
-	url = https://github.com/kirschbombe/literaryparis.git
+	url = https://github.com/kirschbombe/mapsandtexts.git
 	branch = dist
