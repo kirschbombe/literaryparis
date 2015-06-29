@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bois de Boulogne</title>
+            <author>Alissa Felt</author>
+            <author>Nadia Lehtihet</author>
+            <author>Robert Walter</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2012">Fall 2012</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p style="subhead">Voyage au Bois de Boulogne: Un petit pays merveilleux dans une grande ville</p>
+            <p>Un guide touristique qui date de la Belle Epoque, Le guide des plaisirs à Paris, disait que « L’heure chic du Bois est surtout le matin de onze heures à 13 heures ; l’heure où les amazones montent et se promenait dans les allées cavalières du Bois. » Le guide continue de regarder la statue des parisiennes qui se promènent pendant ces moments en écrivant: « C’est à cette promenade que Tout Paris élégant’ se donne rendez-vous. Très jolies femmes et très belles toilettes » ( Pierrefitte, 42).</p>
+            <p>Alors, le Bois de Boulogne était un lieu proéminent dans la vie des parisiens chics pendant la Belle Epoque. Nous pouvons voir cette réflexion dans les détails de Belle Ami. La première fois que Maupassant mentionne le bois dans le livre, il suggérait le charme et romance du bois en décrivant les émotions de Duroy: « [Duroy] avait envie maintenant de gagner les Champs-Elysées et l’avenue du Bois-de-Boulogne pour trouver un peu d’air frais sous les arbres; mais un désir aussi le travaillait, celui d’une rencontre amoureuse. » (23) Même M. Forestier, qui n’est pas grand romantique, disait « ‘Un tour au Bois n’est amusant qu’avec une femme…’ » (Maupassant 31)</p>
+             <p>Mais le Bois de Boulogne n'est pas seulement pour les couples. La beauté physique et naturelle du bois correspond à ces idées. Le Bois a un emplacement opportun près des beaux quartiers et les Champs Elysées mais aussi suffisamment loin pour s’échapper des enquêtes pour les parisiens qui voudraient trouver la nature et l’isolement romantique du centre-ville. Il est aussi l’une des plus célèbres lieux pour promenades de Paris. En particulière, les gens bourgeoises aimaient se promener au Bois pour voir et pour être vu dans l’air frais du jour ou le drame des lumières du soir. En fait, pour la plupart de bourgeois, le jour était consideré un echec si on n’a pas fait un promenade au Bois de Boulogne. Ces promenades sont devenues une néccesité sociale plus qu’une activité de loisir (Shapiro, 89). Maupassant propageait cette image romantique du Bois en écrivant les observations de Duroy: « Tous les habitues du Bois étaient sortis ce matin-là, cédant a l’appel du ciel clair et doux » (134).</p>
+             <p>La proéminence du Bois n’est pas coïncidence. En fait, le Bois était considéré « a milestone for garden and park construction in the French capital” (Napoleon Foundation). L’empereur lui-même commençait son ambition de construire des espaces verts et propres pour les citoyens en 1852 avec le Bois de Boulogne comme modèle brillant. Pour réaliser ce rêve, Napoléon demandait au fameux Baron Haussmann de commencer les changements nécessaires. M. Haussmann admirait vraiment le « Hyde Park » de London et voulait avoir des parcs et places spacieux (Rearick, 171). Haussmann créait le Bois de Boulogne et aussi le Bois de Vincennes dans ce style avec beaucoup de succès (Paris Digest).</p>
+             <p>La transformation du Bois marquait aussi un déplacement notable de la bourgeoisie et le capital parisien à l’ouest. Même si Haussmann assurait que le Bois retenu son charme rustique avec les arbres et les cascades du foret de chêne de Rouvray, les modernisations et améliorations signifiait évidemment la présence d’une haute société qui occupait le Bois et les quartiers limitrophe (WordPress). Un écrivan qui vivait pendant la Belle Époque et voyait toutes les transformations de Paris pendant cette periode dit que Paris, en particulier le Bois de Boulogne, avait: « Elegance,… knowledge, the sense of the comic or of modération, the taste for discovery, the spirit of examination, femininity, flânerie, games of intelligence and desire equally widespread » (Rearick, 75). Peut-être que c’est pour cette raison que M. Forestier ; l’homme de vieille bourgeoisie, favorise le Bois pour les promenades et M. Forestier ; l’emblème du nouveau riche, favorise également le Bois pour ses rendez-vous galantes avec les femmes puissantes. Néanmoins, qui que soit leurs motivations et histoires pendant la Belle Epoque, nous pouvons tous apprécier la beauté du Bois aujourd’hui.</p>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Beraud, Jean. <hi rend="italic">Le Châlet du Cycle au Bois de Boulogne. 1900.</hi> musee Carnavalet, Paris.</bibl>
+               <bibl>Granger, James <hi rend="italic">Paris: Bois De Boulogne. 1890.</hi> Granger collection, New York</bibl>
+               <bibl>Lartigue, Jacques-Henri <hi rend="italic">Avenue du Bois de Boulogne. 1911</hi> Museum of Modern Art, New York</bibl>
+            </listBibl>
+         </div>
+      </body>
+      <note>
+           <note type="mapmarker">
+               <placeName>Bois de Boulogne</placeName>
+               <geo>2.249167 48.862449</geo>
+               <p>« Ils prirent un fiacre découvert, gagnèrent les Champs-Élysées, puis l'avenue du Bois-de-Boulogne. C'était une nuit sans vent, une de ces nuits d'étuve où l'air de Paris surchauffé entre dans la poitrine comme une vapeur de four. Une armée de fiacres menait sous les arbres tout un peuple d'amoureux. Ils allaient, ces fiacres, l'un derrière l'autre, sans cesse. » (Bel-Ami)</p>
+           </note>
+      </note>
+      <back>
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="../images/boisboulogne1.jpg"/>
+               <head>Bois de Boulogne [cavalières en amazone] </head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of women on horseback</figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="../images/boisboulogne2.jpg"/>
+               <head>Avenue du Bois de Boulogne</head>
+               <note type="attribution"/>
+               <figDesc>Gelatin silver print of Parisians walking in the park</figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="../images/boisboulogne3.jpg"/>
+               <head>Two equestrians en route to Longchamps in the Bois de Boulogne</head>
+               <note type="attribution">Image courtesy of The Granger Collection</note>
+               <figDesc>Wood engraving of two gentlemen on horseback with the Arc de Triomphe in the background</figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="../images/boisboulogne4.jpg"/>
+               <head>Février 1919, patinage au bois de Boulogne</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of two ice skaters</figDesc>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="../images/boisboulogne5.jpg"/>
+               <head>Matinee de Juin au Bois de Boulogne</head>
+               <note type="attribution">Image courtesy of Musee de la Presse</note>
+               <figDesc>Lithograph of Parisians sitting in the park</figDesc>
+            </figure>
+            <figure xml:id="fig6">
+               <graphic url="../images/boisboulogne6.jpg"/>
+               <head>Croix-Catelan, championnats de France</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of two female tennis players</figDesc>
+            </figure>
+            <figure xml:id="fig7">
+               <graphic url="../images/boisboulogne7.jpg"/>
+               <head>Walking at the lake</head>
+               <note type="attribution">Image courtesy of Flickr</note>
+               <figDesc>Oil painting of pedestrians walking by the tree-lined lake</figDesc>
+            </figure>
+            <figure xml:id="fig8">
+               <graphic url="../images/boisboulogne8.jpg"/>
+               <head>Avenue du Bois de Boulogne in Spring</head>
+               <note type="attribution">Image courtesy of Artilim</note>
+               <figDesc>Oil painting of trees and a green hill in the park</figDesc>
+            </figure>
+            <figure xml:id="fig9">
+               <graphic url="../images/boisboulogne9.jpg"/>
+               <head>Le Chalet du cycle au bois de Boulogne</head>
+               <note type="attribution">Image courtesy of the Musee Carnavalet</note>
+               <figDesc>Oil painting of Parisians in the park, on bikes and sitting at café tables</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>

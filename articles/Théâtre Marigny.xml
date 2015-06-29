@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Théâtre Marigny</title>
+            <author>Alissa Felt</author>
+            <author>Nadia Lehtihet</author>
+            <author>Robert Walter</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2012">Fall 2012</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p style="subhead">Un Soir au Théâtre Marigny!</p>
+            <p>Le Théâtre Marigny est situé dans le 8ème arrondissement sur l’avenue Marigny, près de la jonction du Champs Élysées. Pendant la Belle Epoque, le Théâtre Marigny était un centre des activités sociales pour la bourgeoisie, particulièrement pendant les soirées. Bien que plusieurs théâtres avaient été précédemment situés sur le même site que le Marigny, le théâtre ne s'est pas déplacé depuis son début en 1883. La conception originale du théâtre pour montrer un panorama a été conçu par Charles Garnier, l’architecte renommé pour sa conception et sa construction de l’Opéra de Paris de 1861 à 1875 (Historique).</p>
+            <p>En plus de M. Garnier, M. Sirdey, le propriétaire du théâtre, était également important dans le développement du Théâtre Marigny. Avec l'aide des conceptions de Garnier, Sirdey a accompli, dans l’obscurité, ses propres projets de rénovation qui éblouiraient plus tard le public.</p>
+            <q>«Vaudevillistes, comédiens, musiciens, pantomimes, seront accueillis tous avec la même bienveillance, quel que soit leur âge, quels que soient leurs antécédents littéraires, à la condition qu’ils apportent avec eux quelque chose de beau et de nouveau. Le programme sera toujours conçu dans cet esprit et ne cherchera à séduire la foule ni par des exhibitions malsaines, ni par des spectacles d’un réalisme grossier: seul, un public d’élite appartenant à toutes les classes de la société, mais cherchant surtout, et avant tout, au théâtre, une distraction intellectuelle…» (Pierrefitte, 34).</q>
+            <p>En plus,</p>
+            <q>«Pour bien affirmer ses tendances et le but qu’il poursuit, M. Sirdey commence par intituler simplement Théâtre Marigny, le théâtre des Folies Marigny. Ce ne sera donc plus ni un théâtre de femmes, ni un théâtre à femmes, ni une galerie de rendez-vous» (Pierrefitte, 32).</q>
+            <p>En 1894, le Théâtre Marigny a été rénové par l’architecte Edouard Niermans, qui a reconstruit le bâtiment en théâtre-dans-le-rond pour les opérettes et les théâtres musicaux. Le nouveau théâtre s'est appelé Les Théâtres Parisiens-Marigny.</p>
+            <p>Dans ses cahiers, le bijoutier Henri Vever décrit sa première visite au théâtre: «Nous allons ensuite au théâtre Marigny nouvelle transformé, bien installé, genre Folies Bergère en plus moderne. Nous y arrivons pendant le ballet “La Bulle d’Amour”, musique de Thomé assez gentille, costumes frais» (pg 2, cahiers 1898-1901).</p>
+            <p>Vever fait également mention spéciale de la nouvelle transformation du théâtre et le type de représentation théâtrale qu’il a vu. Les opérettes et les ballets joués étaient dans un style pour lequel Niermans avait converti le théâtre. Le nouvel Marigny se vantait des siéges dans le style théâtre-dans-le-rond, la scène entourée de l’audience. Ce concept était surtout pour les spectacles musicaux, qui étaient très populaires en été. « Il nous suffise d’ajouter que l’été, la coupole de la sale étant mobile, rien ne sera plus facile que d’évacuer rapidement l’air chaud, et que cette dernière amélioration contribuera à faire du Théâtre Marigny un des séjours les plus agréables et les plus séduisants pour le public parisien. Nous espérons, d’ailleurs, que tous nos lecteurs, convaincus comme nous que la réédification du théâtre Marigny est, tant au point de vue architectural que décoratif, artistique que littéraire, une véritable innovation, en deviendront des habitués assidus et qu’ils nous remercieront tous, d’avoir, dans la mesure du possible, favorisée, par le concours de notre modeste publicité, une œuvre aussi intéressante et aussi utile» (Pierrefitte, 36).</p>
+            <p>Le Théâtre Marigny a continué à consacrer le lieu aux opérettes et à tout autre théâtre musical jusqu’en 1930. Aujourd'hui, le Marigny présente des productions populaires de théâtre et est l'une des nuits les plus chères pour des amateurs de théâtre. Situé au centre de Paris, avec l'intérieur de luxe étant conçu par Garnier, il est toujours considéré un théâtre d’extravagance et de plaisir.</p>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Guide des Plaisirs à Paris <hi rend="italic">Paris le jour, Paris la nuit, où dîner, où souper, les dessous de Paris, comment on s’amuse, où l’on s’amuse, ce qu’il faut voir, ce qu’il faut faire (Nouvelle édition revue complètement mise à jour).</hi>Paris: [s.n.], 1900-1945.</bibl>
+               <bibl><hi rend="italic">Historique: Théâtre Marigny. Société Nouvelle Théâtre Marigny</hi> </bibl>
+               <bibl><hi rend="italic">Les Théâtres parisiens- Marigny</hi>L’encyclopédie multimedia de la comédie musicale en France (1918-1940).</bibl>
+               <bibl>Pierrefitte, P.-L. De. <hi rend="italic">Histoire du théâtre des Folies-Marigny (1848-1893)</hi>monographie imprimée. Bibliothèque nationale de France, Paris.</bibl>
+               <bibl>Simont, Jose.<hi rend="italic">Matinee de Juin au Bois de Boulogne. 8 June 1907.</hi>Musee de La Presse, Paris.</bibl>
+            </listBibl>
+         </div>
+      </body>
+      <note>
+         <note type="mapmarker">
+            <placeName>Théâtre Marigny</placeName>
+            <geo>2.314001 48.868549</geo>
+            <p>« Nous allons ensuite au théâtre Marigny nouvelle transformé, bien installé, genre Folies Bergère en plus moderne. Nous y arrivons pendant le ballet “La Bulle d’Amour”, musique de Thomé assez gentille, costumes frais »</p>
+         </note>
+      </note>
+      <back>
+         <div type="images">
+            
+            <figure xml:id="fig2">
+               <graphic url="../images/marigny2.png"/>
+               <head>Marigny Théâtre - Affiche</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Poster advertisement for the theater featuring two boxers</figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="../images/marigny3.png"/>
+               <head>Marigny Théâtre - Tous les soirs Marigny revue</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Poster for the theater featuring dancers</figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="../images/marigny4.png"/>
+               <head>Helena</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Poster for the theater advertising Helena, "the most heard voice in the world"</figDesc>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="../images/marigny5.png"/>
+               <head>Marigny Theatre - La Charmeuse</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Poster for the theater depicting a beautiful young woman</figDesc>
+            </figure>
+            <figure xml:id="fig6">
+               <graphic url="../images/marigny6.png"/>
+               <head>Ohé ! Ohé !</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Poster announcing that the theater will be opening on the 7th of May, 1897</figDesc>
+            </figure>
+            <figure xml:id="fig7">
+               <graphic url="../images/marigny7.png"/>
+               <head>Tous les soirs Marigny-Revue</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Poster for the theater featuring three women and a man</figDesc>
+            </figure>
+            
+            <figure xml:id="fig10">
+               <graphic url="../images/marigny10.jpg"/>
+               <head>Marigny - Carte Postale</head>
+               <note type="attribution">Image courtesy of Silhouettesdereves</note>
+               <figDesc>Postcard of the theater</figDesc>
+            </figure>
+            <figure xml:id="fig11">
+               <graphic url="../images/marigny11.jpg"/>
+               <head>marigny facade</head>
+               <note type="attribution"/>
+               <figDesc>Black and white photograph of the theater's façade</figDesc>
+            </figure>
+            <figure xml:id="fig12">
+               <graphic url="../images/marigny12.jpg"/>
+               <head>Marigny Théâtre - Affiche</head>
+               <note type="attribution"/>
+               <figDesc>An advertisement for the theater</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>

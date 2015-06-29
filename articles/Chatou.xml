@@ -56,19 +56,19 @@
          </div>
          <div type="bibliography">
             <listBibl>
-               <bibl>Arrivetz, Pierre. Chatou. Saint-Cyr-sur-Loire: Editions Alan Sutton, 2003.</bibl>
-               <bibl>Billy, A. L'Époque 1900: 1885-1905.Paris: J. Tallandier, 1951.</bibl>
-               <bibl>Bornot, L. Notice Historique Sur Chatou Et Les Environs. Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-1999. 1 vol., 1852. Gallica.</bibl>
-               <bibl>Boyd, Ernest Augustus, 1887-1946. Guy De Maupassant : A Biographical Study. United States, 1926.</bibl>
-               <bibl>Chting, K. Renoir, Paris and the Belle Epoque. Munich: Prestel, 1996.</bibl>
-               <bibl>Gardin Jean, «La friche de l'île de Chatou, ultime frontière de l'axe historique de Paris?», L’Espace géographique, 2/2006 (Tome 35). URL :www.cairn.info/revue-espace-geographique-2006-2-page-163.htm.</bibl>
+               <bibl>Arrivetz, Pierre. <hi rend="italic">Chatou. Saint-Cyr-sur-Loire</hi> Editions Alan Sutton, 2003.</bibl>
+               <bibl>Billy, A. <hi rend="italic">L'Époque 1900: 1885-1905.Paris</hi> J. Tallandier, 1951.</bibl>
+               <bibl>Bornot, L. <hi rend="italic">Notice Historique Sur Chatou Et Les Environs.</hi> Bibliothèque nationale de France, 1 vol., 1852. Gallica.</bibl>
+               <bibl>Boyd, Ernest Augustus, 1887-1946. <hi rend="italic">Guy De Maupassant : A Biographical Study.</hi> United States, 1926.</bibl>
+               <bibl>Chting, K. <hi rend="italic">Renoir, Paris and the Belle Epoque.</hi> Munich: Prestel, 1996.</bibl>
+               <bibl>Gardin Jean, <hi rend="italic">La friche de l'île de Chatou, ultime frontière de l'axe historique de Paris?</hi>, L’Espace géographique, 2/2006 (Tome 35). URL :www.cairn.info/revue-espace-geographique-2006-2-page-163.htm.</bibl>
                <bibl>"Heilbrunn Timeline of Art History." Claude Monet: La Grenouillère (29.100.112).</bibl>
                <bibl>Metropolitan Museum of Art.</bibl>
-               <bibl>McAuliffe, Mary. "Twilight of the Belle Epoque." Rowman &amp; Littlefield, 2014.</bibl>
-               <bibl>"Musée Fournaise à Chatou - Un Peu D'histoire."Musée Fournaise à Chatou - Un Peu D'histoire.</bibl>
-               <bibl>Rivière, Georges. Renoir et Ses Amis. Paris: H. Floury, 1921.</bibl>
-               <bibl>Sagner-Düchting, Karin. Renoir, Paris and the Belle Epoque. Munich: Prestel, 1996.</bibl>
-               <bibl>Sansot, Pierre. "LE TOUR DE FRANCE : UNE FORME DE LITURGIE NATIONALE."Cahiers Internationaux De Sociologie86 (1989): 91-105.</bibl>
+               <bibl>McAuliffe, Mary. <hi rend="italic">Twilight of the Belle Epoque.</hi> Rowman &amp; Littlefield, 2014.</bibl>
+               <bibl>"Musée Fournaise à Chatou - Un Peu D'histoire.</bibl>
+               <bibl>Rivière, Georges. <hi rend="italic">Renoir et Ses Amis. Paris: H. Floury</hi>, 1921.</bibl>
+               <bibl>Sagner-Düchting, Karin. <hi rend="italic">Renoir, Paris and the Belle Epoque.</hi> Munich: Prestel, 1996.</bibl>
+               <bibl>Sansot, Pierre. <hi rend="italic">LE TOUR DE FRANCE : UNE FORME DE LITURGIE NATIONALE.</hi> Cahiers Internationaux De Sociologie86 (1989): 91-105.</bibl>
                <bibl>"Ville De Chatou - Le Site Officiel."</bibl>
             </listBibl>
          </div>
@@ -83,34 +83,34 @@
       <back>
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/Claude_monet_la_grenouillère_1869_02.jpg"/>
+               <graphic url="../images/chatou1.jpg"/>
                <head>La Grenouillère - Claude Monet</head>
                <note type="attribution">Photo from Wikimedia Commons, via user Sailko</note>
-               <figDesc/>
+               <figDesc>impressionist color painting by Claude Monet</figDesc>
             </figure>
             <figure xml:id="fig2">
-               <graphic url="../images/oarsmen.jpg"/>
+               <graphic url="../images/chatou2.jpg"/>
                <head>Les canotiers à Chatou - Pierre-Auguste Renoir</head>
                <note type="attribution">Photo from Wikiart.org</note>
-               <figDesc/>
+               <figDesc>Renoir painting of boats on the water</figDesc>
             </figure>
             <figure xml:id="fig3">
-               <graphic url="../images/the-seine-at-chatou-1881.jpg"/>
+               <graphic url="../images/chatou3.jpg"/>
                <head>La Seine à Chatou - Pierre-Auguste Renoir</head>
                <note type="attribution">Image from Wikiart.org</note>
-               <figDesc/>
+               <figDesc>Renoir painting of the river bank</figDesc>
             </figure>
             <figure xml:id="fig4">
-               <graphic url="../images/Pierre-Auguste_Renoir_-_Le_Pont_de_Chatou-e1418359345281.jpg"/>
+               <graphic url="../images/chatou4.jpg"/>
                <head>Le Pont de Chatou - Pierre-Auguste Renoir</head>
                <note type="attribution">Photo from Wikimedia Commons</note>
-               <figDesc/>
+               <figDesc>Renoir painting of a bridge over the river</figDesc>
             </figure>
             <figure xml:id="fig5">
-               <graphic url="../images/1879_Affiche.jpg"/>
+               <graphic url="../images/chatou5.jpg"/>
                <head>Affiche: Bal de la Grenouillère tous les jeudis</head>
                <note type="attribution">Photo from Archives.Croissy.com</note>
-               <figDesc/>
+               <figDesc>a color poster for the resort area</figDesc>
             </figure>
          </div>
       </back>
