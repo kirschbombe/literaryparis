@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Église de la Trinité</title>
+            <author>Hyeji Park</author>
+            <author>Francis Sullivan</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Penn State University</publisher>
+            <date when="2012">Fall 2012</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author>Maupassant's</author>
+                  <title>Bel-Ami</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p>Construite par Théodore Ballu entre 1861 et 1867 et située dans le 9earrondissement de Paris sur l’Île-de-France, l’église de la Trinité est au croisement de cinq rues : la rue Blanche, la rue de Clichy, la rue de la Chaussée d’Antin, la rue Saint-Lazare, et la rue de Châteaudun. L’église de la Trinité est une paroissiale Catholique romain et est souvent s’est appelé simplement la Sainte-Trinité. L’église est 90 mètres long, 34 mètres de large et 30 mètres de haut et la grande nef est 17 mètres de large.</p>
+            <p>L’extérieur de l’église est inspirée par la Renaissance italienne, et inclus des niches, des frontons, et des pilastres. La façade est décorée avec des statues qui illustrent le mystère de la Sainte Trinité bien que les ministres haut de l’église qui ont défendu ce dogme. En haut de la façade, les quatre vertus cardinales (la Prudence, la Tempérance, la Justice, et la Force) sont représentées, et les symboles des quatre Évangélistes sont autour du clocher en forme de beffroi. Le campanile du clocher en forme octogonale culmine à 65 mètres.</p>
+            <p>A l’intérieur, le chœur et le maître-autel est flanqué par dix colonnes qui représentent les Dix Commandements. La nef est supporté par six de ces dix colonnes, et chaque de ces six colonnes soutiennent deux apôtres. Les murs sont décorés avec des peintures soutenues par Napoléon III et inclus La Sainte Trinité sur l’arc au-dessus du chœur et une scène de l’Apocalypse au-dessus du grand orgue. Il y a aussi un balcon au fond de la nef destiné à accueillir l’Empereur Napoléon III pendant les grandes cérémonies religieuses, mais il n’a jamais l’utilisé. Il y a cinq petites chapelles qui sont ornées avec les tableaux et situées au fond du chœur et de part et d’autre de la nef. Le point central de l’intérieur est le maître-autel qui est entouré de grandes verrières dans l’abside.</p>
+            <p>Dans un petit moment dans l’histoire de la Sainte-Trinité, l’église devient infirmerie. Pendant l’hiver de 1970-1971, les paroissiens se mirent en quatre pour aider les malades et les blessés, apportèrent tout nécessaire qui était stocké dans les plusieurs chapelles. La cuisine et la buanderie de cette nouvelle infirmerie étaient installées dans la crypte de l’église. En 1986, la Sainte-Trinité est la première paroisse de France à être confiée à la Communauté de l’Emmanuel. Quant l’église n’est pas infirmerie aujourd’hui, il y a des concerts gratuits touts les jeudis pendant les heures de déjeuner, et en plus, quatre jours de la semaine, on peut avoir un déjeuner simple et gratuit si on a la nécessité dans la crypte de l’église.</p>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl><hi rend="italic"> Paris, église de la Saint-Trinité.</hi> Patrimoine Histoire, n.d.</bibl>
+            </listBibl>
+         </div>
+      </body>
+      <note>
+         <note type="mapmarker">
+            <placeName>Eglise de la Trinité</placeName>
+            <geo>2.331805 48.876414</geo>
+            <p>« La place de la Trinité était presque déserte, sous un éclatant soleil de juillet. Une chaleur pesante écrasait Paris, comme si l’air de là-haut, alourdi, brûlé, était retombé sur la ville, de l’air épais et cuisant qui faisait mal dans la poitrine. Les chutes d’eau, devant l’église, tombaient mollement. Elles semblaient fatiguées de couler, lasses et molles aussi, et le liquide du bassin où flottaient des feuilles et des bouts de papier avait l’air un peu verdâtre, épais et glauque. Un chien, ayant sauté par-dessus le rebord de pierre, se baignait dans cette onde douteuse. Quelques personnes, assises sur les bancs du petit jardin rond qui contourne le portail, regardaient cette bête avec envie. »  (Bel-Ami, p. 201)</p>
+         </note>
+      </note>
+      <back>
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="../images/egtrinite1.jpg"/>
+               <head>Eglise de la Trintié, 1913</head>
+               <note type="attribution">Image courtesy of Gallica</note>
+               <figDesc>Black and white photograph of the Church of the Holy Trinity </figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="../images/egtrinite2.jpg"/>
+               <head>Carte Postale de l'Eglise de le Trinité</head>
+               <note type="attribution">Image courtesy of Bidstart</note>
+               <figDesc>Yellowed postcard depicting the church </figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="../images/egtrinite3.jpg"/>
+               <head>La Force, Statue par James Pradier, 1870</head>
+               <note type="attribution">Image courtesy of Patrimoine-histoire.fr</note>
+               <figDesc>Photograph of a statue depicting Force, one of the four virtues, part of the Church of the Holy Trinity </figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="../images/egtrinite4.jpg"/>
+               <head>Saint Denis portant sa tête, Désiré-François Laugé, 1876</head>
+               <note type="attribution">Image courtesy of Patrimoine-histoire.fr</note>
+               <figDesc>Image of a painting of St. Denis carrying his head from the walls of the church</figDesc>
+            </figure>
+            <figure xml:id="fig5">
+               <graphic url="../images/egtrinite5.jpg"/>
+               <head>Place et Église de la Trinité</head>
+               <note type="attribution">Image courtesy of Notrefamilie </note>
+               <figDesc>Black and white postcard of the church </figDesc>
+            </figure>
+            <figure xml:id="fig6">
+               <graphic url="../images/egtrinite6.jpg"/>
+               <head>Le Bon Pasteur, Romain Cazes, 1874</head>
+               <note type="attribution">Image courtesy of Patrimoine-histoire.fr</note>
+               <figDesc>Painting depicting Jesus as a shepherd, from the Church of the Holy Trinity </figDesc>
+            </figure>
+            <figure xml:id="fig7">
+               <graphic url="../images/egtrinite7.jpg"/>
+               <head>La Tempérance, Statue par Jean-Baptiste Carpeaux, 1869</head>
+               <note type="attribution">Image courtesy of Patrimoine-histoire.fr</note>
+               <figDesc>Photograph of a statue depicting Temperance, one of the four virtues, part of the Church of the Holy Trinity </figDesc>
+            </figure>
+          
+            <figure xml:id="fig9">
+               <graphic url="../images/egtrinite9.jpg"/>
+               <head>L'Eglise de la Trinité et vue générale vers Montmartre, Début du XXe siècle</head>
+               <note type="attribution"/>
+               <figDesc/>
+            </figure>
+            <figure xml:id="fig10">
+               <graphic url="../images/egtrinite10.jpg"/>
+               <head>L'Eglise de la Trinité vue de la Chaussée d'Antin en 1912</head>
+               <note type="attribution"/>
+               <figDesc/>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>

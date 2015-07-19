@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bougival </title>
+            <title>Bougival</title>
             <author>K. Gregs</author>
          </titleStmt>
          <publicationStmt>
@@ -49,7 +49,7 @@
          <note type="mapmarker">
             <placeName>Bougival</placeName>
             <geo>2.138909 48.862754</geo>
-            <p>Pendant la belle époque, Bougival était un lieu très chic pour les artistes; en particulier pour les impressionnistes.« On traversa la Seine, on contourna le Mont-Valérien, puis on gagna Bougival, pour longer ensuite la rivière jusqu`au Pecq. » -Bel-Ami, pp. 307</p>
+            <p>Pendant la belle époque, Bougival était un lieu très chic pour les artistes; en particulier pour les impressionnistes. « On traversa la Seine, on contourna le Mont-Valérien, puis on gagna Bougival, pour longer ensuite la rivière jusqu`au Pecq. » (Bel-Ami, p. 307)</p>
          </note>
       </note>
       <back>
@@ -63,7 +63,7 @@
             <figure xml:id="fig2">
                <graphic url="../images/bougival2.jpg"/>
                <head>Vue de Bougival (1873) Renoir</head>
-               <note type="attribution"/>
+               <note type="attribution">Image courtesy of Wikimedia</note>
                <figDesc>Oil painting of a boathouse and a couple by the water</figDesc>
             </figure>
             <figure xml:id="fig3">
