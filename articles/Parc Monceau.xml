@@ -16,6 +16,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -36,6 +37,13 @@
             <p>Laissez-nous discuter les parties de Bel Ami : trois parties du roman où Duroy et Maupassant nous amène au Parc Monceau. Le premier passage, dans le premier chapitre du roman, est une conversation entre Forestier et Duroy. Les hommes ne savent pas comment passer le temps ce soir-là et Forestier souhaite que, &lt;&lt; Il devrait y avoir ici un jardin d’été, comme le parc Monceau, ouvert la nuit, où on entendrait de la très bonne musique en buvant des choses fraîches sous les arbres&gt;&gt; (31). Forestier veut un parc pendant des heures du soir pour prendre quelques verres, et trouver une oasis dans l'agitation de la ville. Le Parc Monceau peut donner du relief aux citoyens pendant la journée, mais il manque un endroit comme ça pour la nuit.</p>
             <p>Pendant la journée, comme illustré dans le chapitre 3 de la première partie de Bel Ami, Duroy trouve le parc frais et un bon endroit pour perdre du temps. Il attend, avant sa réunion à la maison des Forestier et il regarde… &lt;&lt;[u]n jeune homme [qui] allait et venait devant lui, très élégant, attendant une femme sans doute. Elle parut, voile, le pied rapide, et, ayant pris son bras, après une courte poignée de main, ils s’éloignèrent&gt;&gt; (54). En effet, comme nous apprenons dans la deuxième partie du chapitre 4, ainsi, le parc est un lieu de rencontre excellent pour les amoureux et les autres. Le parc aussi est un endroit où &lt;&lt; des bourgeois accablés par la chaleur, et des bonnes nonchalantes qui semblaient rêver pendant que les enfants se roulaient dans le sable des chemins &gt;&gt; (243). Ce parc, situé dans un quartier de l'haut bourgeois, représente un des loisirs importants de la bourgeoisie à la Belle Epoque.</p>
          </div>
+      </body>
+      <back>
+         <note type="mapmarker">
+            <placeName type="">Parc Monceau</placeName>
+            <geo>2.315369 48.873748</geo>
+            <p>« Du Roy arriva juste à l’heur au rendez-vous du lendemain. Sur tous les bancs du parc étaient assis des bourgeois accablés par la chaleur, et des bonnes nonchalantes qui semblaient rêver pendant que les enfants se roulaient dans le sable des chemins. Il trouva Mme Walter dans la petite ruine antique où coule une source. Elle faisait le tour du cirque étroit de colonnettes, d’un air inquiet et malheureux. » (Bel-Ami, p. 243)</p>
+         </note>
          <div type="bibliography">
             <listBibl>
                <bibl>Beard, Phil. “Parc Monceau.” Phil Beard, March 6, 2011. http://buttes-chaumont.blogspot.com/2011/03/parc-monceau.html.</bibl>
@@ -44,15 +52,6 @@
                <bibl>--- L’art des jardins parisiens: guide esthétique et poétique du jardin public, de l’héritage des rois aux créations contemporaines. Paris: Parigramme, 2002.</bibl>
             </listBibl>
          </div>
-      </body>
-      <note>
-         <note type="mapmarker">
-            <placeName>Parc Monceau</placeName>
-            <geo>2.315369 48.873748</geo>
-            <p>« Du Roy arriva juste à l’heur au rendez-vous du lendemain. Sur tous les bancs du parc étaient assis des bourgeois accablés par la chaleur, et des bonnes nonchalantes qui semblaient rêver pendant que les enfants se roulaient dans le sable des chemins. Il trouva Mme Walter dans la petite ruine antique où coule une source. Elle faisait le tour du cirque étroit de colonnettes, d’un air inquiet et malheureux. » (Bel-Ami, p. 243)</p>
-         </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/monceau1.jpg"/>

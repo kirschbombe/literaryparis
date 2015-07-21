@@ -15,6 +15,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -35,21 +36,19 @@
             <q>« La prière vaut mieux encore que ces merveilleuses choses, parce que rien, autant qu’elle, ne nous place près de Dieu et que l’homme est grand dans la mesure où il approche de Dieu. Et, affirmant la prière, vous affirmez l’âme immortelle » (9-10 Le souvenir français : discours prononcé à l’église de la Madeleine).</q>
             <p>Cela expliquait vraiment, comme Constant notait dans son journal (où il est parlé des souvenirs français, y compris l’église de la Madeleine), l’ambiance de l’église et son importance religieuse. Le symbole de Dieu et la religion jouaient un rôle tant importante (sinon encore plus importante) que la signification du statut bourgeois en fréquentant cette église.</p>
          </div>
+      </body>
+      <back>
+         <note type="mapmarker">
+            <placeName type="">Eglise de la Madeleine</placeName>
+            <geo>2.324538 48.870072</geo>
+            <p>« Dès huit heures du matin, tout le personnel de la Madeleine étendant sur les marches du haut perron de cette église qui domine la rue Royale un large tapis rouge, faisait arrêter les passants, annonçait au peuple de Paris qu'une grande cérémonie allait avoir lieu. » (Bel-Ami, p.323)</p>
+         </note>
          <div type="bibliography">
             <listBibl>
                <bibl>Constant, J. <hi rend="italic">Le souvenir français: discours prononcé à l'église de la Madeleine.</hi> Impr. Salésienne, Paris, 1894.</bibl>
                <bibl>Delaveau, Vincent <hi rend="italic">La Madeleine: la meilleur cure de Paris</hi> 2011, La voix des lieux.fr</bibl>
             </listBibl>
          </div>
-      </body>
-      <note>
-         <note type="mapmarker">
-            <placeName>Eglise de la Madeleine</placeName>
-            <geo>2.324538 48.870072</geo>
-            <p>« Dès huit heures du matin, tout le personnel de la Madeleine étendant sur les marches du haut perron de cette église qui domine la rue Royale un large tapis rouge, faisait arrêter les passants, annonçait au peuple de Paris qu'une grande cérémonie allait avoir lieu. » (Bel-Ami, p.323)</p>
-         </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/egmad1.jpg"/>

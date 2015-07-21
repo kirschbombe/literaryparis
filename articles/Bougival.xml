@@ -15,6 +15,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -33,6 +34,13 @@
             <p>Le but pour les artistes à Bougival n’était pas d’exister dans les lieux « pareilles» aux Paris et la vie urbaine ; en fait, ils voulaient travailler dans une sphère unique est moins « moderne ». (Lübbren, 149) Pour eux, être à Bougival était une expérience à la fois « urbaine et naturelle » : séparée de Paris mais avec une influence Parisienne qui reste. (Lübbren 149) C’était aussi beaucoup plus facile de la faire pendant la belle époque grâce au développement des « petits trains d’intérêt local », qui ont facilité le voyage aux environs de Paris pour seulement un jour. (Holmes et Tarr, 88) Donc, c’était beaucoup plus facile pour les artistes (et les bourgeoises) d’être mobile.</p>
             <p>Avec l’arrivée des artistes, la ville de Bougival en a profité pleinement. (Ville de Bougival) Il est devenu un lieu où les bourgeois et les écrivains sont allés pour se divertir et apprécier la nature très près des périphéries de Paris. (Davis et Leshko, 82) Il est devenu un endroit pour le divertissement et le loisir, comme les guinguettes, où il y avait beaucoup de danse et l’interaction sociale. Nous pouvons voir exemples de ses évènements du loisir représenté dans l’œuvre<hi rend="em">Bal à Bougival</hi>de Renoir. (Boston Museum of Fine Arts) Entre le commencement de la belle époque et sa fin juste avant la première guerre mondiale, la population de Bougival passa d’un peu plus de mille habitants jusqu`à plus de trois mille habitants. (Ville de Bougival) Donc, il est clair que pour certains, la belle époque était vraiment le moment d’un approfondissement de l’art, du loisir, et du plaisir.</p>
          </div>
+      </body>
+      <back>
+         <note type="mapmarker">
+            <placeName type="">Bougival</placeName>
+            <geo>2.138909 48.862754</geo>
+            <p>Pendant la belle époque, Bougival était un lieu très chic pour les artistes; en particulier pour les impressionnistes. « On traversa la Seine, on contourna le Mont-Valérien, puis on gagna Bougival, pour longer ensuite la rivière jusqu`au Pecq. » (Bel-Ami, p. 307)</p>
+         </note>
          <div type="bibliography">
             <listBibl>
                <bibl>Bradshaw, George. Bradshaw’s Illustrated Guide (Bradshaw’s Guide) Through Paris and Its Environs, Etc. [With a Map.]. London, 1855.</bibl>
@@ -44,15 +52,6 @@
                <bibl>Smith College Museum of Art, John Davis, and Jaroslaw Leshko. The Smith College Museum of Art: European and American Painting and Sculpture, 1760-1960. New York: Hudson Hill Press, 2000.</bibl>
             </listBibl>
          </div>
-      </body>
-      <note>
-         <note type="mapmarker">
-            <placeName>Bougival</placeName>
-            <geo>2.138909 48.862754</geo>
-            <p>Pendant la belle époque, Bougival était un lieu très chic pour les artistes; en particulier pour les impressionnistes. « On traversa la Seine, on contourna le Mont-Valérien, puis on gagna Bougival, pour longer ensuite la rivière jusqu`au Pecq. » (Bel-Ami, p. 307)</p>
-         </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/bougival1.jpg"/>
