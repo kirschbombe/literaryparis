@@ -16,6 +16,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -54,6 +55,13 @@
             <p>La commune de Chatou est intéressante de discuter au vu de nos études au sujet de la Belle Époque et l’idée de « Conspicuous Consumption ». Chatou était liée uniquement à l’époque à la cause de ce qu’elle a représenté pour la classe de loisir. Peut-être la haute bourgeoisie a passé leurs vacances à la Cote d’Azur, mais Chatou était beaucoup plus près de Paris, et donc plus accessible pour des brèves vacances. Chatou s’est ainsi établi comme la destination de vacances la plus proche ou la classe de loisir Parisienne pourrait échapper ostensiblement de la ville et s’amusaient dans la nature. Mais l’ironie de Chatou est qu’il n’était pas exactement une vraie échappatoire de Paris du tout. Chatou est mieux caractérisée comme une<hi rend="italic">extension</hi>de Paris : une espèce publique ou la bourgeoisie Parisienne pourrait voir des gens et être vu par des gens.</p>
             <p>Nous avons abordé notre sujet avec un accent sur le style de vie qu'il représentait, et une étude de l'art qu'il a inspiré et qui a été utilisée pour l’illustrer. Chatou n’était pas seulement un lieu de loisirs pour plusieurs artistes, notamment des peintres impressionnistes comme Claude Monet et Pierre-Auguste Renoir, mais il a inspiré plusieurs de leurs œuvres remarquables. Nous avons choisi des peintures pour la plupart de nos images, en particulier ceux qui représentent la scène sociale et la beauté naturelle qui entoure la Seine qui traverse Chatou. Nous n’avons pas eu trop de la difficulté à trouver des sources pour ce projet. Nous supposons que c’était la plus difficile de trouver des sources qui étaient spécifiques à Chatou seulement pendant la Belle Epoque quand il y avait beaucoup d'informations qui couvraient la zone aux autres temps. Ce projet a ajouté à nos connaissances de la Belle Epoque par nuancer notre compréhension d'un lieu qui était très important dans des vies de la bourgeoisie parisienne. C’est possible qu’en représentant ce lieu dans les humanités digitales, il pourrait le rendre plus intéressant et accessible aux étudiants de notre génération et celles à venir.</p>
          </div>
+      </body>
+      <back>
+         <note type="mapmarker">
+            <placeName type="">Chatou</placeName>
+            <geo>2.160098 48.896391</geo>
+            <p>« Quand ils passèrent le pont d’Asnières, une gaieté les saisit à la vue de la rivière couverte de bateaux, de pêcheurs et de canotiers. Le soleil, un puissant soleil de mai, répandait sa lumière oblique sur les embarcations et sur le fleuve calme qui semblait immobile, sans courant et sans remous, figé sous la chaleur et la clarté du jour finissant. Une barque à voile, au milieu de la rivière, ayant tendue sur ses deux bords deux grands triangles de toile blanche pour cueillir les moindres souffles de brise, avait l’air d’un énorme oiseau prêt à s’envoler. Duroy murmura : — J’adore les environs de Paris, j’ai des souvenirs de fritures qui sont les meilleurs de mon existence. Elle répondit : — Et les canots ! Comme c’est gentil de glisser sur l’eau au coucher du soleil »  (Bel-Ami, p. 185).</p>
+         </note>
          <div type="bibliography">
             <listBibl>
                <bibl>Arrivetz, Pierre. <hi rend="italic">Chatou. Saint-Cyr-sur-Loire</hi> Editions Alan Sutton, 2003.</bibl>
@@ -72,15 +80,6 @@
                <bibl>"Ville De Chatou - Le Site Officiel."</bibl>
             </listBibl>
          </div>
-      </body>
-      <note>
-         <note type="mapmarker">
-            <placeName>Chatou</placeName>
-            <geo>2.160098 48.896391</geo>
-            <p>« Quand ils passèrent le pont d’Asnières, une gaieté les saisit à la vue de la rivière couverte de bateaux, de pêcheurs et de canotiers. Le soleil, un puissant soleil de mai, répandait sa lumière oblique sur les embarcations et sur le fleuve calme qui semblait immobile, sans courant et sans remous, figé sous la chaleur et la clarté du jour finissant. Une barque à voile, au milieu de la rivière, ayant tendue sur ses deux bords deux grands triangles de toile blanche pour cueillir les moindres souffles de brise, avait l’air d’un énorme oiseau prêt à s’envoler. Duroy murmura : — J’adore les environs de Paris, j’ai des souvenirs de fritures qui sont les meilleurs de mon existence. Elle répondit : — Et les canots ! Comme c’est gentil de glisser sur l’eau au coucher du soleil »  (Bel-Ami, p. 185).</p>
-         </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/chatou1.jpg"/>

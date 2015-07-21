@@ -16,6 +16,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -32,18 +33,19 @@
                <hi rend="italic">for visitors to Paris</hi>, p33). Au Café américain on pouvait non seulement boire du café, mais aussi prendre un bock (un grand verre de bière): « Il passa devant le Vaudeville, et s’arrêta en face du café Américain se demandant s’il n’allait pas prendre son bock, tant la soif le torturait » (p.25). Pendant la Belle époque, les hommes buvaient le bock au Café américain. Le bock était quelque chose de cher pour les autres, mais les bourgeois buvaient des bocks sans souci. « Forestier cria : «Deux bocks ! » et il avala le sien d’un seul trait, tandis que Duroy buvait la bière à lentes gorgées, la savourant et la dégustant, comme une chose précieuse et rare » (p.30). On peut bien voir la situation différente des différentes classes même à l’égard des boissons.</p>
             <p>Pendant la belle époque, le Café américain était le lieu des loisirs où des gens pouvaient tranquillement bavarder avec leurs amis. Par contre, pour les autres classes sociales, le Café américain était un site de comparaison et de contraste entre ces derniers et les bourgeois. Pour entrer dans le café américain, on n’avait pas besoin d’un billet, mais c’était, quand même, parfois difficile pour y entrer.</p>
          </div>
+      </body>
+      <back>
+         <note type="mapmarker">
+            <placeName type="">Café Américain</placeName>
+            <geo>2.333798 48.871061</geo>
+            <p>« Il allait, passant devant les cafés d’un air crâne et gaillard, et il jugeait d’un coup d’œil, à la mine, à l’habit, ce que chaque consommateur devait porter d’argent sur lui. Et une colère l’envahissait contre ces gens assis et tranquilles » (Bel-Ami, p. 24)</p>
+         </note>
          <div type="bibliography">
             <listBibl>
-               <bibl><hi rend="italic">Guide des plaisirs à Paris: Paris le jour, Paris la nuit, où dîner, où souper, les dessous de Paris, comment on s’amuse, où l’on s’amuse, ce qu’il faut voir, ce qu’il faut faire</hi> (Nouvelle édition revue complètement mise à jour). [s.n.] (Paris), 1927.</bibl>
+               <bibl>
+                  <hi rend="italic">Guide des plaisirs à Paris: Paris le jour, Paris la nuit, où dîner, où souper, les dessous de Paris, comment on s’amuse, où l’on s’amuse, ce qu’il faut voir, ce qu’il faut faire</hi> (Nouvelle édition revue complètement mise à jour). [s.n.] (Paris), 1927.</bibl>
             </listBibl>
          </div>
-      </body>
-      <note type="mapmarker">
-         <placeName>Café Américain</placeName>
-         <geo>2.333798 48.871061</geo>
-         <p>« Il allait, passant devant les cafés d’un air crâne et gaillard, et il jugeait d’un coup d’œil, à la mine, à l’habit, ce que chaque consommateur devait porter d’argent sur lui. Et une colère l’envahissait contre ces gens assis et tranquilles » (Bel-Ami, p. 24)</p>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/cafeamericain1.jpg"/>
@@ -73,7 +75,7 @@
                <graphic url="../images/cafeamericain5.jpg"/>
                <head>En Boulevard, Café Américain- Jean Béraud c. 1890</head>
                <note type="attribution"/>
-               <figDesc></figDesc>
+               <figDesc/>
             </figure>
          </div>
       </back>

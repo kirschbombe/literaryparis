@@ -16,6 +16,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -42,6 +43,13 @@
             <p>Pendant cette époque, l’architecture a pris plusieurs nouvelles formes et les gares s’étaient données leur propre style qui montre plutôt bien que les gares à Paris étaient les nouveaux sites de la modernité urbaine. La Gare des Batignolles était construite dans un mélange de styles avec ses arches courbes et romanesques et ses grandes fenêtres dans le style néo-gothique. Quand elle a été reconstruite dans les années vingt, elle a été faite dans un style Art déco tout en gardant son charme original. Par exemple, les motifs graphiques en céramiques à l’extérieur et les fenêtres cathédrales dans la salle guichet. C’était la qualité totale du nouveau bâtiment qui était presque reconnue immédiatement. Comme Henri Verne et René Chavance disent dans leur livre,<hi rend="italic">Pour comprendre l’art décoratif moderne en France,</hi>« La nouvelle gare des Batignolles, sans aucune prétention, mais dont les lignes sont logiques et ou, par surcroît, de légers motifs de céramique prouvent un souci de coquetterie, montre un judicieux emploi du ciment armé. »</p>
             <p>Les trains et les gares ont eu un grand impact sur la ville et la population entières. La vie quotidienne des Parisiens et des Français a changé en raison des impacts culturels et économiques de l’infrastructure ferroviaire. La vie à Paris a changé et la relation au reste du pays et au monde aussi. La Gare de Batignolles est encore importante à Paris aujourd'hui, seulement le nom a changé. Elle s’appelle maintenant, « Pont-Cardinet. » Des personnes différentes ont utilisé les gares pour des raisons variables et nous voyons cela très explicitement dans le roman. Cette gare a saisi l’envie de plusieurs artistes, peintres, et écrivains donc nous pouvons jouir de son histoire et de son image à travers leurs œuvres.</p>
          </div>
+      </body>
+      <back>
+         <note type="mapmarker">
+            <placeName type="">Gare des Batignolles</placeName>
+            <geo>2.314172 48.887612</geo>
+            <p>« Les maisons de la rue de Rome, en face, de l'autre côté du large fossé du chemin de fer, éclatantes dans la lumière du soleil levant... » (Bel-Ami, p. 54)</p>
+         </note>
          <div type="bibliography">
             <listBibl>
                <bibl>Bevilacqua, Pierre.<hi rend="italic">Cap-aux-Diamants (0829-7983)</hi>. L’Art nouveau, (39) pg. 54.</bibl>
@@ -52,15 +60,6 @@
                <bibl>Dunham, Arthur.<hi rend="italic">How the First French Railways Were Planned</hi>. The Journal of Economic History, Vol. 1 Issue 1, May 1941 pgs. 12-25.</bibl>
             </listBibl>
          </div>
-      </body>
-      <note>
-         <note type="mapmarker">
-            <placeName>Gare des Batignolles</placeName>
-            <geo>2.314172 48.887612</geo>
-            <p>« Les maisons de la rue de Rome, en face, de l'autre côté du large fossé du chemin de fer, éclatantes dans la lumière du soleil levant... » (Bel-Ami, p. 54)</p>
-         </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/batignolles1.jpg"/>

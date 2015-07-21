@@ -16,6 +16,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -39,6 +40,13 @@
             <p>Mais on peut voir que le café Riche profitait (de la même manière Duroy) de cette réputation de ses prix hauts à travers l’affiche dessiné par Jules A. Grun. Cette œuvre dépeint une femme prise entre deux policiers, et le texte est un peu ironique: «Où la mènent-ils? ‹Au violon›: Le soir à 9 heures au café Riche». Le mot «violon» peut signifier l’instrument musical, mais ici le double-entendre est important parce que «violon» est aussi un mot de l’argot qui veut dire «la prison». Une analyse possible est que, comme les repas avaient une bonne réputation et la clientèle est très affluente au café, cette femme, vêtue d’une manière voyante, ne pouvait pas résister d’entrer dans le café et dîner sans payer les prix très hauts– le restaurant était si bon qu’on ne pouvait pas y résister.</p>
             <p>Cependant, le café "irrésistible" était fermé en 1916, à cause du siège de la ville pendant la Grande Guerre. Après la fermeture, le restaurant a été converti en une banque. Mais dans les photographes de cette banque, on peut toujours voir le décor doré et décadent qui sert comme un écho de la gloire passée du café Riche.</p>
          </div>
+      </body>
+      <back>
+         <note type="mapmarker">
+            <placeName type="">Café Riche</placeName>
+            <geo>2.338074 48.871673</geo>
+            <p>« Il entendait dans toute cette vaste maison une rumeur confuse, ce bruissement des grands restaurants restaurants fait du bruit des vaiselles et des argenteries heurtées, du bruit des pas rapides des garçons adouci par le tapis des corridors, du bruit des portes un moment ouvertes et qui laissent échapper le son des voix de tous ces étroits salons où sont enfermés des gens qui dînent » (Bel-Ami, p. 85)</p>
+         </note>
          <div type="bibliography">
             <listBibl>
                <bibl>Esperluette. <hi rend="italic">Cafés littéraires parisiens 1 Les Grands-Boulevards et la Butte Montmartre.</hi> Café du Web-Lecture 26 Février, 2011.</bibl>
@@ -48,15 +56,6 @@
                <bibl>Reynolds-Ball, Eustace A. B. <hi rend="italic">Paris in its Splendor.</hi> Boston: D. Este and Co., 1900.</bibl>
             </listBibl>
          </div>
-      </body>
-      <note>
-         <note type="mapmarker">
-            <placeName>Café Riche</placeName>
-            <geo>2.338074 48.871673</geo>
-            <p>« Il entendait dans toute cette vaste maison une rumeur confuse, ce bruissement des grands restaurants restaurants fait du bruit des vaiselles et des argenteries heurtées, du bruit des pas rapides des garçons adouci par le tapis des corridors, du bruit des portes un moment ouvertes et qui laissent échapper le son des voix de tous ces étroits salons où sont enfermés des gens qui dînent » (Bel-Ami, p. 85)</p>
-         </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/caferiche1.jpg"/>
