@@ -39,7 +39,7 @@
       </body>
       <back>
          <note type="mapmarker">
-               <placeName type="">Bois de Boulogne</placeName>
+               <placeName type="parks-rec">Bois de Boulogne</placeName>
                <geo>2.249167 48.862449</geo>
                <p>« Ils prirent un fiacre découvert, gagnèrent les Champs-Élysées, puis l'avenue du Bois-de-Boulogne. C'était une nuit sans vent, une de ces nuits d'étuve où l'air de Paris surchauffé entre dans la poitrine comme une vapeur de four. Une armée de fiacres menait sous les arbres tout un peuple d'amoureux. Ils allaient, ces fiacres, l'un derrière l'autre, sans cesse. » (Bel-Ami)</p>
            </note>

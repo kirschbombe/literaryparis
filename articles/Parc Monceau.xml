@@ -40,7 +40,7 @@
       </body>
       <back>
          <note type="mapmarker">
-            <placeName type="">Parc Monceau</placeName>
+            <placeName type="parks-rec">Parc Monceau</placeName>
             <geo>2.315369 48.873748</geo>
             <p>« Du Roy arriva juste à l’heur au rendez-vous du lendemain. Sur tous les bancs du parc étaient assis des bourgeois accablés par la chaleur, et des bonnes nonchalantes qui semblaient rêver pendant que les enfants se roulaient dans le sable des chemins. Il trouva Mme Walter dans la petite ruine antique où coule une source. Elle faisait le tour du cirque étroit de colonnettes, d’un air inquiet et malheureux. » (Bel-Ami, p. 243)</p>
          </note>
