@@ -15,6 +15,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -31,16 +32,13 @@
             <p>Les Folies-Bergère étaient le plus réussi et célèbres de tous les cafés-concerts. Ils ont servi non seulement les touristes et les gens aisés, mais ils ont aussi attiré des clients du secteur public plébéien, ce qui a aidé à construire «un vrai public”. Ce public consiste des époux/épouse, provincial, et les Parisiens qui sont des ouvriers et des aristocrates. Dans ce milieu, il y avait aussi des prostitués. Le narrateur de Bel Ami décrit, “ Dans le vaste corridor d’entrée qui mène à la promenade circulaire, où rôde la tribu parée des filles, mêlée à la foule sombre des hommes, un groupe de femmes attendait les arrivants devant un des trois comptoirs où trônaient fardées et défraîchies, trois marchandes de boissons et d’amour.” (32) Le journaliste, Forestier donne une remarque sur la population, “Remarque donc l’orchestre: rien que des bourgeois avec leurs femmes et leurs enfants, de bonne têtes stupides qui viennent pour voir. Aux loges, des boulevardiers; quelques artistes, quelques filles de demi- choix; et, derrière nous, le plus drôle de mélange qui soit dans Paris. Quels sont ces hommes? Observe-les. Il y a de tout, de toutes castes, mais la crapule domaine.” (33) Selon la déscription des Folies-Bergère dans le livre The Pleasures of the Belle Epoque, Jules Claretie a déclaré ces cafés-concerts avec ce “vrai public” sont des théâtres “démocratisé”. (64) C’est à dire que les théâtres étaient ouverts pour toutes les classes sociales, pas seulement les hautes classes.</p>
             <p>Les clients peuvent regarder un duo de trapèze, ballets, un jongleur, un charmeur de serpent, des lutteurs, des clowns, et les actes de nouveauté comme un kangourou qui boxe un homme et une multitude des autres spectateurs. Le narrateur de Bel-Ami décrit la scène: “Sur la scène, trois jeunes hommes en maillot collant, un grand, un moyen, un petit, faisaient, tour à tour, des exercices sur un trapèze. Le grand s’avaçait d’abord, à pas courts et rapides, en souriant, et saluait avec un mouvement de la main comme pour envoyer un baiser. Il atteignait le trapèze d’un bond gracieux, et, perdu par les mains, tournait autour comme une roue lancée; ou bien, les bras raides, le corps droit, il se tenait immobile, couché horizontalement dans le vide, attaché seulement à la barre fixe par la force des poignets.” (33) Les Folies-Bergère pendant la Belle Epoque était un lieu de spectacles et de la sociabilité.</p>
          </div>
-         
       </body>
-      <note>
+      <back>
          <note type="mapmarker">
-            <placeName>Folies-Bergère</placeName>
+            <placeName type="arts-entertain">Folies-Bergère</placeName>
             <geo>2.344894 48.874084</geo>
             <p>« Remarque donc l’orchestre: rien que des bourgeois avec leurs femmes et leurs enfants, de bonne têtes stupides qui viennent pour voir. Aux loges, des boulevardiers; quelques artistes, quelques filles de demi-choix; et, derrière nous, le plus drôle de mélange qui soit dans Paris. Quels sont ces hommes? Observe-les. Il y a de tout, de toutes castes, mais la crapule domaine. » (Bel-Ami, p.33)</p>
          </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/folies1.jpg"/>

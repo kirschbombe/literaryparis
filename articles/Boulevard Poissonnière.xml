@@ -16,6 +16,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -52,7 +53,14 @@
             <p style="subhead">En conclusion</p>
             <p>Le Boulevard Poissonnière était une partie du monde Parisien pendant la Belle Epoque. Avec des cafés, des théâtres, le journal, et aussi l’architecture du Baron Haussmann, on peut imaginer comment les bourgeois habitaient Paris et ce boulevard. L’histoire du Boulevard Poissonnière peut faire des liens entre Bel-Ami et la Belle Époque sur cette rue. L’histoire de ce boulevard nous donne un image de la ville que Duroy découvre. Beaucoup d'éléments de la ville que nous connaissons et voyons aujourd’hui existaient pendant la Belle Époque--la ville est une archive de son passé.</p>
         </div>
-        <div type="bibliography">
+      </body>
+      <back>
+         <note type="mapmarker">
+            <placeName type="street">Boulevard Poissonnière</placeName>
+            <geo>2.345704 48.871047</geo>
+            <p>« Ils arrivèrent au boulevard Poissonnière, devant une grande porte vitrée, derrière laquelle un journal ouvert était collé sur les deux faces. Trois personnes arrêtées le lisaient. Au-dessus de la porte s’étalait, comme un appel, en grands lettres de feu dessinées par des flammes de gaz : La Vie Française » (Bel-Ami, p. 28)</p>
+         </note>
+         <div type="bibliography">
             <listBibl>
                 <bibl>“Baron Haussman” Saturday Review of Politics, Literature, Science, and Art. (1891) : 67-8.</bibl>
                 <bibl>"Comptoir National d'Escompte de Paris." PSS - L'architecture contemporaine, de l'urbanisme, et de l'aménagement du territoire. 2014. http://www.pss-archi.eu/immeubles/FR-75056-16168.html.</bibl>
@@ -70,15 +78,6 @@
                 <bibl>Winock, Michel. La Belle Epoque, Paris: Editions Perrin, 2002.</bibl>
             </listBibl>
          </div>
-      </body>
-      <note>
-         <note type="mapmarker">
-            <placeName>Boulevard Poissonnière</placeName>
-            <geo>2.345704 48.871047</geo>
-            <p>« Ils arrivèrent au boulevard Poissonnière, devant une grande porte vitrée, derrière laquelle un journal ouvert était collé sur les deux faces. Trois personnes arrêtées le lisaient. Au-dessus de la porte s’étalait, comme un appel, en grands lettres de feu dessinées par des flammes de gaz : La Vie Française » (Bel-Ami, p. 28)</p>
-         </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/poissoniere1.jpg"/>

@@ -17,6 +17,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -35,6 +36,13 @@
              <p>La proéminence du Bois n’est pas coïncidence. En fait, le Bois était considéré « a milestone for garden and park construction in the French capital” (Napoleon Foundation). L’empereur lui-même commençait son ambition de construire des espaces verts et propres pour les citoyens en 1852 avec le Bois de Boulogne comme modèle brillant. Pour réaliser ce rêve, Napoléon demandait au fameux Baron Haussmann de commencer les changements nécessaires. M. Haussmann admirait vraiment le « Hyde Park » de London et voulait avoir des parcs et places spacieux (Rearick, 171). Haussmann créait le Bois de Boulogne et aussi le Bois de Vincennes dans ce style avec beaucoup de succès (Paris Digest).</p>
              <p>La transformation du Bois marquait aussi un déplacement notable de la bourgeoisie et le capital parisien à l’ouest. Même si Haussmann assurait que le Bois retenu son charme rustique avec les arbres et les cascades du foret de chêne de Rouvray, les modernisations et améliorations signifiait évidemment la présence d’une haute société qui occupait le Bois et les quartiers limitrophe (WordPress). Un écrivan qui vivait pendant la Belle Époque et voyait toutes les transformations de Paris pendant cette periode dit que Paris, en particulier le Bois de Boulogne, avait: « Elegance,… knowledge, the sense of the comic or of modération, the taste for discovery, the spirit of examination, femininity, flânerie, games of intelligence and desire equally widespread » (Rearick, 75). Peut-être que c’est pour cette raison que M. Forestier ; l’homme de vieille bourgeoisie, favorise le Bois pour les promenades et M. Forestier ; l’emblème du nouveau riche, favorise également le Bois pour ses rendez-vous galantes avec les femmes puissantes. Néanmoins, qui que soit leurs motivations et histoires pendant la Belle Epoque, nous pouvons tous apprécier la beauté du Bois aujourd’hui.</p>
          </div>
+      </body>
+      <back>
+         <note type="mapmarker">
+               <placeName type="parks-rec">Bois de Boulogne</placeName>
+               <geo>2.249167 48.862449</geo>
+               <p>« Ils prirent un fiacre découvert, gagnèrent les Champs-Élysées, puis l'avenue du Bois-de-Boulogne. C'était une nuit sans vent, une de ces nuits d'étuve où l'air de Paris surchauffé entre dans la poitrine comme une vapeur de four. Une armée de fiacres menait sous les arbres tout un peuple d'amoureux. Ils allaient, ces fiacres, l'un derrière l'autre, sans cesse. » (Bel-Ami)</p>
+           </note>
          <div type="bibliography">
             <listBibl>
                <bibl>Beraud, Jean. <hi rend="italic">Le Châlet du Cycle au Bois de Boulogne. 1900.</hi> musee Carnavalet, Paris.</bibl>
@@ -42,15 +50,6 @@
                <bibl>Lartigue, Jacques-Henri <hi rend="italic">Avenue du Bois de Boulogne. 1911</hi> Museum of Modern Art, New York</bibl>
             </listBibl>
          </div>
-      </body>
-      <note>
-           <note type="mapmarker">
-               <placeName>Bois de Boulogne</placeName>
-               <geo>2.249167 48.862449</geo>
-               <p>« Ils prirent un fiacre découvert, gagnèrent les Champs-Élysées, puis l'avenue du Bois-de-Boulogne. C'était une nuit sans vent, une de ces nuits d'étuve où l'air de Paris surchauffé entre dans la poitrine comme une vapeur de four. Une armée de fiacres menait sous les arbres tout un peuple d'amoureux. Ils allaient, ces fiacres, l'un derrière l'autre, sans cesse. » (Bel-Ami)</p>
-           </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/boisboulogne1.jpg"/>

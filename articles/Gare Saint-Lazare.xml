@@ -15,6 +15,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -44,14 +45,12 @@
             <p>Tout au long de son histoire, la gare Saint-Lazare a joué un rôle clé dans la croissance économique et sociale de Paris. Elle a influencé les arts et l'architecture à travers la ville, en particulier pendant la Belle Époque. On peut imaginer Georges Duroy marchant à la gare Saint-Lazare de son appartement sur la rue de Constantinople, parmi la foule des voyageurs. La gare Saint-Lazare est devenue un lieu vraiment inspirant pendant la Belle Époque ; c’est facile de voir pourquoi des réalistes de la Belle Epoque étaient si inspirés.</p>
          </div>
       </body>
-      <note>
+      <back>
          <note type="mapmarker">
-            <placeName>Gare Saint-Lazare</placeName>
+            <placeName type="transportation">Gare Saint-Lazare</placeName>
             <geo>2.326671 48.875496</geo>
             <p>« Georges Duroy dormit mal, tant l’excitait le désir de voir imprimé son article. Dès que le jour parut, il fut debout et il rôdait dans la rue bien avant l’heure où les porteurs de journaux vont, en courant, de kiosque en kiosque. Alors il gagna la gare Saint-Lazare, sachant bien que la Vie Française y arriverait avant de parvenir dans son quartier. Comme il était encore trop tôt, il erra sur le trottoir. » (Bel-Ami, ch. 4, pt. I)</p>
          </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/lazare1.gif"/>

@@ -16,6 +16,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -32,20 +33,19 @@
             <p>A l’intérieur, le chœur et le maître-autel est flanqué par dix colonnes qui représentent les Dix Commandements. La nef est supporté par six de ces dix colonnes, et chaque de ces six colonnes soutiennent deux apôtres. Les murs sont décorés avec des peintures soutenues par Napoléon III et inclus La Sainte Trinité sur l’arc au-dessus du chœur et une scène de l’Apocalypse au-dessus du grand orgue. Il y a aussi un balcon au fond de la nef destiné à accueillir l’Empereur Napoléon III pendant les grandes cérémonies religieuses, mais il n’a jamais l’utilisé. Il y a cinq petites chapelles qui sont ornées avec les tableaux et situées au fond du chœur et de part et d’autre de la nef. Le point central de l’intérieur est le maître-autel qui est entouré de grandes verrières dans l’abside.</p>
             <p>Dans un petit moment dans l’histoire de la Sainte-Trinité, l’église devient infirmerie. Pendant l’hiver de 1970-1971, les paroissiens se mirent en quatre pour aider les malades et les blessés, apportèrent tout nécessaire qui était stocké dans les plusieurs chapelles. La cuisine et la buanderie de cette nouvelle infirmerie étaient installées dans la crypte de l’église. En 1986, la Sainte-Trinité est la première paroisse de France à être confiée à la Communauté de l’Emmanuel. Quant l’église n’est pas infirmerie aujourd’hui, il y a des concerts gratuits touts les jeudis pendant les heures de déjeuner, et en plus, quatre jours de la semaine, on peut avoir un déjeuner simple et gratuit si on a la nécessité dans la crypte de l’église.</p>
          </div>
-         <div type="bibliography">
-            <listBibl>
-               <bibl><hi rend="italic"> Paris, église de la Saint-Trinité.</hi> Patrimoine Histoire, n.d.</bibl>
-            </listBibl>
-         </div>
       </body>
-      <note>
+      <back>
          <note type="mapmarker">
-            <placeName>Eglise de la Trinité</placeName>
+            <placeName type="church">Eglise de la Trinité</placeName>
             <geo>2.331805 48.876414</geo>
             <p>« La place de la Trinité était presque déserte, sous un éclatant soleil de juillet. Une chaleur pesante écrasait Paris, comme si l’air de là-haut, alourdi, brûlé, était retombé sur la ville, de l’air épais et cuisant qui faisait mal dans la poitrine. Les chutes d’eau, devant l’église, tombaient mollement. Elles semblaient fatiguées de couler, lasses et molles aussi, et le liquide du bassin où flottaient des feuilles et des bouts de papier avait l’air un peu verdâtre, épais et glauque. Un chien, ayant sauté par-dessus le rebord de pierre, se baignait dans cette onde douteuse. Quelques personnes, assises sur les bancs du petit jardin rond qui contourne le portail, regardaient cette bête avec envie. »  (Bel-Ami, p. 201)</p>
          </note>
-      </note>
-      <back>
+         <div type="bibliography">
+            <listBibl>
+               <bibl>
+                  <hi rend="italic"> Paris, église de la Saint-Trinité.</hi> Patrimoine Histoire, n.d.</bibl>
+            </listBibl>
+         </div>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/egtrinite1.jpg"/>

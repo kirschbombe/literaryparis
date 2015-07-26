@@ -17,6 +17,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -39,24 +40,25 @@
             <p>Vever fait également mention spéciale de la nouvelle transformation du théâtre et le type de représentation théâtrale qu’il a vu. Les opérettes et les ballets joués étaient dans un style pour lequel Niermans avait converti le théâtre. Le nouvel Marigny se vantait des siéges dans le style théâtre-dans-le-rond, la scène entourée de l’audience. Ce concept était surtout pour les spectacles musicaux, qui étaient très populaires en été. « Il nous suffise d’ajouter que l’été, la coupole de la sale étant mobile, rien ne sera plus facile que d’évacuer rapidement l’air chaud, et que cette dernière amélioration contribuera à faire du Théâtre Marigny un des séjours les plus agréables et les plus séduisants pour le public parisien. Nous espérons, d’ailleurs, que tous nos lecteurs, convaincus comme nous que la réédification du théâtre Marigny est, tant au point de vue architectural que décoratif, artistique que littéraire, une véritable innovation, en deviendront des habitués assidus et qu’ils nous remercieront tous, d’avoir, dans la mesure du possible, favorisée, par le concours de notre modeste publicité, une œuvre aussi intéressante et aussi utile» (Pierrefitte, 36).</p>
             <p>Le Théâtre Marigny a continué à consacrer le lieu aux opérettes et à tout autre théâtre musical jusqu’en 1930. Aujourd'hui, le Marigny présente des productions populaires de théâtre et est l'une des nuits les plus chères pour des amateurs de théâtre. Situé au centre de Paris, avec l'intérieur de luxe étant conçu par Garnier, il est toujours considéré un théâtre d’extravagance et de plaisir.</p>
          </div>
+      </body>
+      <back>
+         <note type="mapmarker">
+            <placeName type="arts-entertain">Théâtre Marigny</placeName>
+            <geo>2.314001 48.868549</geo>
+            <p>« Nous allons ensuite au théâtre Marigny nouvelle transformé, bien installé, genre Folies Bergère en plus moderne. Nous y arrivons pendant le ballet “La Bulle d’Amour”, musique de Thomé assez gentille, costumes frais »</p>
+         </note>
          <div type="bibliography">
             <listBibl>
                <bibl>Guide des Plaisirs à Paris <hi rend="italic">Paris le jour, Paris la nuit, où dîner, où souper, les dessous de Paris, comment on s’amuse, où l’on s’amuse, ce qu’il faut voir, ce qu’il faut faire (Nouvelle édition revue complètement mise à jour).</hi>Paris: [s.n.], 1900-1945.</bibl>
-               <bibl><hi rend="italic">Historique: Théâtre Marigny. Société Nouvelle Théâtre Marigny</hi> </bibl>
-               <bibl><hi rend="italic">Les Théâtres parisiens- Marigny</hi>L’encyclopédie multimedia de la comédie musicale en France (1918-1940).</bibl>
+               <bibl>
+                  <hi rend="italic">Historique: Théâtre Marigny. Société Nouvelle Théâtre Marigny</hi> 
+               </bibl>
+               <bibl>
+                  <hi rend="italic">Les Théâtres parisiens- Marigny</hi>L’encyclopédie multimedia de la comédie musicale en France (1918-1940).</bibl>
                <bibl>Pierrefitte, P.-L. De. <hi rend="italic">Histoire du théâtre des Folies-Marigny (1848-1893)</hi>monographie imprimée. Bibliothèque nationale de France, Paris.</bibl>
                <bibl>Simont, Jose.<hi rend="italic">Matinee de Juin au Bois de Boulogne. 8 June 1907.</hi>Musee de La Presse, Paris.</bibl>
             </listBibl>
          </div>
-      </body>
-      <note>
-         <note type="mapmarker">
-            <placeName>Théâtre Marigny</placeName>
-            <geo>2.314001 48.868549</geo>
-            <p>« Nous allons ensuite au théâtre Marigny nouvelle transformé, bien installé, genre Folies Bergère en plus moderne. Nous y arrivons pendant le ballet “La Bulle d’Amour”, musique de Thomé assez gentille, costumes frais »</p>
-         </note>
-      </note>
-      <back>
          <div type="images">
             
             <figure xml:id="fig2">

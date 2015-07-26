@@ -17,6 +17,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
+                  <citedRange unit="chapter" n=""/>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -34,14 +35,12 @@
             <p>Les années de la Belle Epoque ont vu la dernière vie du Théâtre du Vaudeville ; en 1920 le théâtre a été acquis par l’entreprise de Paramount et s’était transformé en un cinéma de 1,900 de places en 1927. L’ancien lieu du Théâtre du Vaudeville opère toujours sous le nom de Gaumont Opéra aujourd’hui. Mais malgré le fait que la nouvelle technologie de cinématographie a repris ce théâtre fameux, on ne peut pas oublier un théâtre avec une histoire assez merveilleuse que celle du Théâtre du Vaudeville, ni des pièces innovantes qui étaient performées entre les murs du théâtre.</p>
          </div>
       </body>
-      <note>
+      <back>
          <note type="mapmarker">
-            <placeName>Théâtre du Vaudeville</placeName>
+            <placeName type="arts-entertain">Théâtre du Vaudeville</placeName>
             <geo>2.333908 48.871102</geo>
             <p>« Il passa devant le Vaudeville, et s’arrêta en face du café Américain, se demandant s’il n’allait pas prendre son bock, tant la soif le torturait. » « Le théâtre de Vaudeville, spécialisé dans les comédies légères, était situé à l’angle de la chaussée d’Antin et du boulevard des Capucines. Il fut remplacé par le cinéma Paramount en 1925 » (Bel-Ami, p. 25)</p>
          </note>
-      </note>
-      <back>
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="../images/vaudeville1.jpg"/>
