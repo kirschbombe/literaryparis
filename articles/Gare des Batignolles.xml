@@ -46,7 +46,7 @@
       </body>
       <back>
          <note type="mapmarker">
-            <placeName type="transportation">Gare des Batignolles</placeName>
+            <placeName type="Transportation">Gare des Batignolles</placeName>
             <geo>2.314172 48.887612</geo>
             <p>« Les maisons de la rue de Rome, en face, de l'autre côté du large fossé du chemin de fer, éclatantes dans la lumière du soleil levant... » (Bel-Ami, p. 54)</p>
          </note>
