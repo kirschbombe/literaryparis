@@ -19,6 +19,7 @@
   font-weight: 400;
   position: absolute;
   left: 0;
+  width: 60%;
   overflow-y: scroll;
   margin-left: auto;
   margin-right: auto;
