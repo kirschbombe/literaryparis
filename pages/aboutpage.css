@@ -3,12 +3,14 @@
     #aboutpage {
       padding-top: 10px;
       height: 50vh;
+      width: 100%;
     }
 }
 @media (min-width: 768px) {
     #aboutpage {
       padding-top: 50px;
       height: 100%;
+      width: 60%;
     }
 }
 
@@ -19,7 +21,6 @@
   font-weight: 400;
   position: absolute;
   left: 0;
-  width: 60%;
   overflow-y: scroll;
   margin-left: auto;
   margin-right: auto;
