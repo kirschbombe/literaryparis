@@ -15,8 +15,7 @@
                <bibl>
                   <author>Maupassant's</author>
                   <title>Bel-Ami</title>
-                  <!-- for narrative order: n refers to the chapter and paragraph - in this case, "3.12" is chapter 3, paragraph 12 -->
-                  <citedRange unit="chapter" n="3.12"/>
+                  <citedRange unit="chapter" n="2.1.114"/>
                </bibl>
             </relatedItem>
          </notesStmt>
