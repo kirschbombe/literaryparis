@@ -1,5 +1,4 @@
 [submodule "app"]
 	path = app
-#	url = https://github.com/kirschbombe/mapsandtexts.git
-	url = https://github.com/rnathanday/mapsandtexts.git
+	url = https://github.com/kirschbombe/mapsandtexts.git
 	branch = dist
