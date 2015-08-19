@@ -1,3 +1,4 @@
+# 'git submodule sync' after toggling url
 [submodule "app"]
 	path = app
 	#url = https://github.com/kirschbombe/mapsandtexts.git
