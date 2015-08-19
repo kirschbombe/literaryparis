@@ -47,8 +47,8 @@
                               { "page" : { "el"   : "body"
                                          , "page" : "404.html" } }
                         ]
-                    }},
-  "menu"        : [
+                    }}
+  , "menu" : [
     {  "type"    : "page",
        "label"   : "Home",
        "href"    : "",
@@ -79,16 +79,8 @@
        "href"    : "page/info",
        "partial" : "partials/menu/page.html"     }
 
-  ],
-  "persistance" : [
-        { "name" : "models/article",        "persist": true, "singleton": false }
-      , { "name" : "models/issue",          "persist": true, "singleton": true  }
-      , { "name" : "models/map",            "persist": true, "singleton": true  }
-      , { "name" : "views/map",             "persist": true, "singleton": true  }
-      , { "name" : "collections/articles",  "persist": true, "singleton": true  }
-      , { "name" : "collections/markers",   "persist": true, "singleton": true  }
-  ],
-  "articles" : {
+  ]
+  , "articles" : {
     "pathBase"  : "articles/",
     "files"     : [
         "Asnières-sur-Seine.xml",
@@ -112,8 +104,8 @@
         "Boulevard Poissonnière.xml",
         "Gare des Batignolles.xml"
       ]
-   },
-   "markers" : {
+   }
+  , "markers" : {
         "icons" : [
             { "dir"   : "app/icons/",
               "files" : [
@@ -130,4 +122,7 @@
                 "noun_33862_cc_teal.svg"
             ]}]
    }
+  , "book" : {
+      "file" : "config/book.json"
+  }
 }
