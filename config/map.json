@@ -39,7 +39,7 @@
         "layers" : {
             "options" : {
                 "autoZIndex" : true,
-                "collapsed"  : false,
+                "collapsed"  : true,
                 "position"   : "topleft"
             }
         }
