@@ -123,6 +123,6 @@
             ]}]
    }
   , "book" : {
-      "file" : "config/book.json"
+      "file" : ""
   }
 }
