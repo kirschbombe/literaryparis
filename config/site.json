@@ -125,4 +125,12 @@
   , "book" : {
       "file" : "config/book.json"
   }
+  , "controls" : {
+        "timeline" : {
+          "enable" : false
+      }
+      , "placetype" : {
+          "enable" : true
+      }
+  }
 }
